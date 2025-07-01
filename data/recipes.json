@@ -1,0 +1,4642 @@
+{
+  "recipes": [
+	{
+		"name": "Älplermagronen (Alpine macaroni)",
+		"url": "https://based.cooking/aelplermagronen/",
+		"ingredients": [
+			"~150g (1/3 lb) bacon cubes",
+			"3 onions (medium size)",
+			"400g (15 oz) potatoes (firm/waxy)",
+			"1 - 2L (1/4 - 1/2 gal) milk",
+			"400g (15 oz) macaroni (dry weight)",
+			"~150g (1/3 lb) medium soft cheese. Appenzeller works best. Gruyère would be my go-to alternative.",
+			"a jar of apple sauce"
+		]
+	},
+	{
+		"name": "Spaghetti aglio e olio",
+		"url": "https://based.cooking/aglio-e-olio/",
+		"ingredients": [
+			"1 pound (500g) spaghetti (or similarly shaped pasta)",
+			"1/2 cup (110g) extra virgin olive oil",
+			"5-6 cloves of garlic",
+			"1/4 tsp red pepper flakes",
+			"A bunch of fresh parsley"
+		]
+	},
+	{
+		"name": "Aljotta",
+		"url": "https://based.cooking/aljotta/",
+		"ingredients": [
+			"Fish stock (see 2.)",
+			"Fish, raw",
+			"Onion, roughly chopped",
+			"Garlic, sliced or diced",
+			"Tomatos, chopped",
+			"frying oil/lard",
+			"Extra virgin olive oil",
+			"Marjoram",
+			"Black pepper (optional)",
+			"Mint, small amount (optional, I never use it myself as it's too overpowering)",
+			"Lemon wedge/juice (optional, also overpowering)",
+			"Rice (optional)"
+		]
+	},
+	{
+		"name": "Almeirim Stone Soup",
+		"url": "https://based.cooking/almeirim-stone-soup/",
+		"ingredients": [
+			"well-washed stone",
+			"kidney beans or fresh",
+			"pig's ear (blanched and sliced thin)",
+			"chouriço negro or firm type of blood sausage",
+			"mixed meat chouriço or mediterranean smoked sausage",
+			"pork belly, fatback or bacon",
+			"potatoes, cubed",
+			"onions, chopped",
+			"garlic cloves",
+			"bay leaf",
+			"cilantro/coriander, chopped"
+		]
+	},
+	{
+		"name": "Apple Chicken",
+		"url": "https://based.cooking/apple-chicken/",
+		"ingredients": [
+			"Chicken breast or similar.",
+			"Onions.",
+			"Nuez moscada.",
+			"Apples.",
+			"Potatoes.",
+			"Cream or creme fraiche.",
+			"Salt.",
+			"Pepper.",
+			"One glass (33c) of wine or cognac."
+		]
+	},
+	{
+		"name": "Apple Pie",
+		"url": "https://based.cooking/apple-pie/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Apple strudel",
+		"url": "https://based.cooking/apple-strudel/",
+		"ingredients": [
+			"Puff pastry",
+			"Apricot jam (about 300 g | 10 oz)",
+			"3 apples",
+			"Ground cinnamon",
+			"Breadcrumbs / crushed cookies",
+			"Butter (optional)",
+			"Powdered sugar (optional)"
+		]
+	},
+	{
+		"name": "Ardei umpluti with meat",
+		"url": "https://based.cooking/ardei-umpluti/",
+		"ingredients": [
+			"2 yellow peppers per person",
+			"Around 120g of ground beef meat per person.",
+			"1 or 2 onions.",
+			"Condiments of your choice: Parsley, origan or cumin.",
+			"Olive oil",
+			"Salt and pepper.",
+			"Optional: Bechamel."
+		]
+	},
+	{
+		"name": "Arroz Chaufa",
+		"url": "https://based.cooking/arroz-chaufa/",
+		"ingredients": [
+			"Rice",
+			"Salt",
+			"Bell Pepper",
+			"Chicken",
+			"Eggs",
+			"Soy Sauce",
+			"Welsh Onion"
+		]
+	},
+	{
+		"name": "Asian Style Chicken with Sticky Sauce",
+		"url": "https://based.cooking/asian-style-chicken-sticky-sauce/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Assam Tea",
+		"url": "https://based.cooking/assam-tea/",
+		"ingredients": [
+			"2 teaspoons of Assam Tea",
+			"150 ml of fresh water",
+			"Sugar (Optional)",
+			"Milk (Optional)"
+		]
+	},
+	{
+		"name": "Aussie Snags (sausage sizzle)",
+		"url": "https://based.cooking/aussie-snags/",
+		"ingredients": [
+			"Sausages (thin)",
+			"Onions (4g per sausage)",
+			"Tomato sauce",
+			"Mustard (optional)",
+			"White sliced bread",
+			"Butter",
+			"Oil",
+			"Wood chips (optional, fuel for smokey flavour)"
+		]
+	},
+	{
+		"name": "Autumn Soup",
+		"url": "https://based.cooking/autumn-soup/",
+		"ingredients": [
+			"1 Medium Squash",
+			"3 Potatoes",
+			"4 Carrots",
+			"1 Small Onion",
+			"1 Chicken Bullion Cube",
+			"1 cup Water",
+			"2 cups Milk",
+			"Salt",
+			"Pepper"
+		]
+	},
+	{
+		"name": "Baba's Feta Pasta",
+		"url": "https://based.cooking/babas-feta-pasta/",
+		"ingredients": [
+			"Medium Sweet Onion (Finely Chopped)",
+			"Virgin olive oil (not extra-virgin)",
+			"White Sugar",
+			"3 Fresh Medium Garlic Cloves (Chopped Fine)",
+			"15-20 Kalamon/Kalamata Olives (Cut into thirds)",
+			"Whole small courgette (Cut to small pieces)",
+			"6 Medium Mushrooms (Cut smallish and small stalk)",
+			"1/2 Broccli (Chopped small)",
+			"8-10 Finely sliced cherry tomatoes",
+			"1/2 Block of feta (Washed)",
+			"1 Chicken stock (Added to 3/4 Mug boiling water)",
+			"Overfilled Teaspoon Mixed Spice",
+			"3/4 Bowls fusilli pasta",
+			"Overfilled tablespoon Creme Cheese",
+			"1/3 Mug whole milk"
+		]
+	},
+	{
+		"name": "Baby Back Ribs",
+		"url": "https://based.cooking/baby-back-ribs/",
+		"ingredients": [
+			"Applewood (or other sweet cooking wood such as cherry or maple)",
+			"2 baby back rib racks",
+			"1 container of barbecue rub ([Traeger Pork and Poultry Rub](https://www.traeger.com/rubs-spices/pork-poultry) is recommended)",
+			"Tin foil",
+			"Bag of brown sugar",
+			"Bottle of honey",
+			"Barbecue Sauce ([Oakland Dust, The One BBQ Sauce](https://www.sincerelysf.com/products/oakland-dust-the-one-bbq-sauce-1) is recommended)",
+			"(Optional) A stick of butter"
+		]
+	},
+	{
+		"name": "Baked Mostaccioli",
+		"url": "https://based.cooking/baked-mostaccioli/",
+		"ingredients": [
+			"24 oz or 1 jar of Fradiavolo Sauce ([Victoria](https://victoriapastasauces.com/product/fradiavolo-sauce/))",
+			"1 box Mostaccioli Rigati or Penne Rigati ([Ronzoni](https://www.google.com/search?q=mostaccioli+rigati&tbm=shop))",
+			"~8 oz shredded Mozzarella Cheese ([Poly-O](https://www.walmart.com/ip/Polly-O-Mozzarella-Cheese-Chunk-with-Whole-Milk-16-oz-Pack/10448265))",
+			"2x 2 quart (8) baking dishes or 1 large baking dish (see picture below)"
+		]
+	},
+	{
+		"name": "Baked pasta with broccoli, boiled eggs and scamorza cheese",
+		"url": "https://based.cooking/baked-pasta-with-broccoli/",
+		"ingredients": [
+			"500g pasta",
+			"500g broccoli",
+			"4 eggs",
+			"200g scamorza cheese",
+			"400g béchamel",
+			"sage (optional)",
+			"parmesan cheese (optional)"
+		]
+	},
+	{
+		"name": "Baked Salmon",
+		"url": "https://based.cooking/baked-salmon/",
+		"ingredients": [
+			"Salmon Steaks",
+			"Red Pepper Flakes",
+			"Lemon Juice",
+			"Butter",
+			"Cooking oil / spray",
+			"Aluminum Foil"
+		]
+	},
+	{
+		"name": "Banana Bread",
+		"url": "https://based.cooking/banana-bread/",
+		"ingredients": [
+			"2 cups all purpose flour",
+			"1 1/2 teaspoon baking powder",
+			"1/2 teaspoon baking soda",
+			"Spices:",
+			"1/4 teaspoon salt",
+			"1 1/2 cups mashed bananas (this is around 4-5 bananas)",
+			"2 eggs",
+			"1 cup sugar (brown or white is fine)",
+			"1/2 cup butter",
+			"1/4 cup crushed walnuts"
+		]
+	},
+	{
+		"name": "Banana Muffins with Chocolate",
+		"url": "https://based.cooking/banana-muffins-with-chocolate/",
+		"ingredients": [
+			"3 bananas",
+			"100 g / ½ cups butter",
+			"150 g / ¾ cups sugar",
+			"2 eggs",
+			"1½ tsp. cooking powder",
+			"260 g / 2⅛ cups wheat flour",
+			"50 g / 1¾ oz dark chocolate",
+			"50 g / 1¾ oz milk chocolate",
+			"some vanilla sugar (optional)"
+		]
+	},
+	{
+		"name": "Banana and oatmeal cookies",
+		"url": "https://based.cooking/banana-oatmeal-cookies/",
+		"ingredients": [
+			"2 ripe bananas (250 g/9 oz peeled)",
+			"100g (3.5 oz) of oatmeal",
+			"1 table spoon of cinnamon powder (optional)",
+			"1 table spoon of honey (optional)"
+		]
+	},
+	{
+		"name": "Banana Pancakes",
+		"url": "https://based.cooking/banana-pancakes/",
+		"ingredients": [
+			"1 cup flour (2.5 dl)",
+			"1 tablespoon sugar",
+			"2 teaspoon baking powder",
+			"1 cup milk (2.5 dl)",
+			"1 egg",
+			"2 very ripe bananas"
+		]
+	},
+	{
+		"name": "Basic Meatballs",
+		"url": "https://based.cooking/basic-meatballs/",
+		"ingredients": [
+			"1 pound ground beef (preferably 90/10 or 93/7)",
+			"1 pound ground pork",
+			"1/2 cup italian breadcrumbs",
+			"1/3 cup milk (I use 2% but doesn't matter too much)",
+			"1/4 cup yellow onion diced (about 1/2 small yellow onion)",
+			"1 egg",
+			"1/2 cup shredded parmesan",
+			"1/4-1/2 cup chopped parsley",
+			"2 tbsp red pepper flakes",
+			"2 tbsp dried oregano",
+			"1 tbsp rosemary",
+			"1 tbsp basil",
+			"1 tbsp garlic powder",
+			"Salt and pepper to taste"
+		]
+	},
+	{
+		"name": "Three Bean Salad",
+		"url": "https://based.cooking/bean-salad/",
+		"ingredients": [
+			"1/3 cup Salad Oil (olive oil, canola, or sunflower)",
+			"1/2 cup Cider Vinegar",
+			"1 tsp Salt",
+			"1/2 tsp Pepper",
+			"1/4 cup Sugar",
+			"1/2 tsp Celery Seed",
+			"1 can Cut Green Beans",
+			"1 can Cut Waxed Beans",
+			"1 can Red Kidney Beans",
+			"1 Carrot, thinly sliced",
+			"1 small Onion, chopped",
+			"1 Bell Pepper"
+		]
+	},
+	{
+		"name": "Beef and Broccoli",
+		"url": "https://based.cooking/beef-and-broccoli/",
+		"ingredients": [
+			"1/2 lb Beef, cut into strips",
+			"2 Tbsp Vegetable Oil",
+			"1 Tbsp Ginger, minced",
+			"2 cloves Garlic, minced",
+			"1 cup Carrots, sliced",
+			"Snow Peas",
+			"Bean Sprouts",
+			"1 cup Broccoli Pieces",
+			"1/2 cup Beef Bouillon",
+			"1 Tbsp Corn starch",
+			"1 Tbsp Soy Sauce"
+		]
+	},
+	{
+		"name": "Beef Goulash",
+		"url": "https://based.cooking/beef-goulash/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Beef Jerky",
+		"url": "https://based.cooking/beef-jerky/",
+		"ingredients": [
+			"¾ tsp. salt",
+			"¼ tsp. pepper",
+			"1 tbsp. brown sugar",
+			"¼ tsp. garlic",
+			"2 tbsp. Worcestershire sauce or Teriyaki sauce",
+			"¼ tsp. Liquid Smoke",
+			"1 Lb. (450 g) beef (flank or skirt steak is ideal)",
+			"Other common seasonings may include (¼ tsp. of) cayenne pepper, cheese powder, and/or white pepper"
+		]
+	},
+	{
+		"name": "Beef Kidney",
+		"url": "https://based.cooking/beef-kidney/",
+		"ingredients": [
+			"1 beef kidney",
+			"60g butter",
+			"2 onions",
+			"2 shallots",
+			"1 sprig of fresh parsley",
+			"3 bay leaves",
+			"400g croutons or toasted bread in pieces"
+		]
+	},
+	{
+		"name": "Traditional beef or lamb stew",
+		"url": "https://based.cooking/beef-stew/",
+		"ingredients": [
+			"Lamb shoulder or beef chuck",
+			"Onion, celery, carrot and garlic",
+			"Thyme, rosemary and some bay leaves.",
+			"Beef or [chicken stock](/chicken-stock-bone-broth)",
+			"(Optional) a bottle of stout or porter for some extra flavour."
+		]
+	},
+	{
+		"name": "Beef Tips in Gravy on Sour Cream Mashed Potatoes",
+		"url": "https://based.cooking/beef-tips/",
+		"ingredients": [
+			"Any lean, tough cut of meat (ex. round steak)",
+			"Unprocessed animal fat of some kind (ex. beef suet, mutton fat)",
+			"Potatoes",
+			"Sour cream",
+			"Butter",
+			"Milk",
+			"Shredded cheese of your choice",
+			"Small amount of flour",
+			"Beef bouillon (optional)",
+			"Red wine (optional)"
+		]
+	},
+	{
+		"name": "Beef Wellington",
+		"url": "https://based.cooking/beef-wellington/",
+		"ingredients": [
+			"1lb of **Fillet** Beef",
+			"Extra Virgin Olive Oil",
+			"1lb of mushrooms",
+			"4 Thinly Cut Slices of Ham",
+			"2tbsp of Yellow Mustard",
+			"7oz of Puff Pastry",
+			"2 Egg Yolks Beaten"
+		]
+	},
+	{
+		"name": "Belgian pear syrup",
+		"url": "https://based.cooking/belgian-pear-syrup/",
+		"ingredients": [
+			"7 pears (Quality doesn't matter; you can argue that overripe pears are better because they have more sugar content.)",
+			"3 apples",
+			"a small handful of dates, raisins, dried apricots or prunes (optional -- you can experiment with these; they can bring out some nice flavors.)",
+			"150 grams sugar",
+			"1 glass of water",
+			"find sieve or cheese cloth",
+			"glass jar"
+		]
+	},
+	{
+		"name": "Bloody Mary Mix",
+		"url": "https://based.cooking/bloody-mary-mix/",
+		"ingredients": [
+			"1 (46 fluid ounce) bottle tomato-vegetable juice cocktail",
+			"1 fruit, without seeds lemons, juiced",
+			"1 teaspoon brown sugar",
+			"1 tablespoon steak sauce",
+			"1 tablespoon Worcestershire sauce",
+			"1 teaspoon prepared horseradish",
+			"1 teaspoon hot pepper sauce",
+			"1/2 teaspoon celery salt"
+		]
+	},
+	{
+		"name": "Bolinhos de Coco",
+		"url": "https://based.cooking/bolinhos-de-coco/",
+		"ingredients": [
+			"300 g coconut",
+			"150 g sugar",
+			"3 egg yolks",
+			"1 whole egg",
+			"Powdered sugar (optional)"
+		]
+	},
+	{
+		"name": "Bolo do Caco (Caco Bread)",
+		"url": "https://based.cooking/bolo-do-caco/",
+		"ingredients": [
+			"1¾ lb sweet potato",
+			"8 cups all-purpose flour",
+			"⅔ cup water (warm at 75F / 35C)",
+			"3 tablespoons active dry - yeast",
+			"3 teaspoons salt",
+			"750 g sweet potato",
+			"1 kg all-purpose flour",
+			"150 ml water (warm at 75F / 35C)",
+			"3 tablespoons active dry yeast",
+			"3 teaspoons salt"
+		]
+	},
+	{
+		"name": "Bolognese Sauce",
+		"url": "https://based.cooking/bolognese-sauce/",
+		"ingredients": [
+			"extra virgin olive oil",
+			"2 carrots",
+			"2 celery sticks",
+			"1 large onion",
+			"2 garlic cloves (optional, but not traditional)",
+			"200 grams pancetta (optional)",
+			"300 grams beef mince",
+			"350 grams pork mince",
+			"350 grams veal mince (if you cant find veal replace with pork)",
+			"140 grams concentrated tomato paste",
+			"690 grams diced tomatoes",
+			"water",
+			"1 can peeled tomatoes",
+			"1-2 glasses wine (whatever you have open)",
+			"1 glass of milk (optional)",
+			"1 glass of beef/vegetable stock (optional)"
+		]
+	},
+	{
+		"name": "Bread",
+		"url": "https://based.cooking/bread/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Breakfast Wrap",
+		"url": "https://based.cooking/breakfast-wrap/",
+		"ingredients": [
+			"2 sausages",
+			"2 bacon rashers",
+			"1 egg",
+			"2 wraps",
+			"milk",
+			"ketchup (optional)"
+		]
+	},
+	{
+		"name": "Breton Crêpes (Breton Galettes)",
+		"url": "https://based.cooking/breton-crepes/",
+		"ingredients": [
+			"500g buckwheat flour",
+			"1 egg",
+			"70cl water"
+		]
+	},
+	{
+		"name": "Brigadeiro",
+		"url": "https://based.cooking/brigadeiro/",
+		"ingredients": [
+			"One can of condensed milk.",
+			"Three or four spoons of chocolate powder or cocoa powder.",
+			"One spoon of butter (Actual butter and preferably unsalted. No margarine!)",
+			"Sprinkles (Optional)"
+		]
+	},
+	{
+		"name": "Broiled Trevally",
+		"url": "https://based.cooking/broiled-trevally/",
+		"ingredients": [
+			"giant trevally",
+			"eggplants",
+			"squash (or zucchini)",
+			"carrots",
+			"onion",
+			"garlic",
+			"ginger",
+			"tomatoes",
+			"bay leaf",
+			"olive oil",
+			"thyme",
+			"basil",
+			"butter"
+		]
+	},
+	{
+		"name": "Brown Sauce",
+		"url": "https://based.cooking/brown-sauce/",
+		"ingredients": [
+			"1 onion",
+			"75g butter",
+			"1dl flour",
+			"1l bouillon",
+			"Black pepper freshly grounded"
+		]
+	},
+	{
+		"name": "Hamburger dressing",
+		"url": "https://based.cooking/burger-dressing/",
+		"ingredients": [
+			"3 tbsp [mayonnese or aioli](/mayonnaise-or-aioli)",
+			"2 tbsp ketchup",
+			"1 tbsp sriracha",
+			"1 clove garlic, if using mayonnese and not aioli (optional)"
+		]
+	},
+	{
+		"name": "'Butter-based biscuit and cookies'",
+		"url": "https://based.cooking/butter-based-biscuit/",
+		"ingredients": [
+			"Butter",
+			"Flour",
+			"White sugar",
+			"Eggs (optionnal)"
+		]
+	},
+	{
+		"name": "Butter Chicken Masala Curry",
+		"url": "https://based.cooking/butter-chicken-masala/",
+		"ingredients": [
+			"Boneless Chicken 1/2lb, cubed",
+			"Butter Melted 2 tbsp",
+			"Onions 2 medium-sized, minced",
+			"Tomato 2 medium-sized, pureed",
+			"Oil 2 tbsp",
+			"Lemon juice 1 tbsp",
+			"Garlic cloves 3, minced/crushed",
+			"Ginger 1tbsp, minced/paste",
+			"[Garam Masala](/garam-masala)/Chicken Masala 1 tbsp",
+			"Cream 4tbsp (or cashew paste)",
+			"Chilli Powder 1 tbsp",
+			"Turmeric powder 1/4 tbsp",
+			"Crushed fenugreek leaves 1/4 tbsp",
+			"1 small bunch of coriander leaves / cilantro, for ganish"
+		]
+	},
+	{
+		"name": "Cacio e Pepe",
+		"url": "https://based.cooking/cacio-e-pepe/",
+		"ingredients": [
+			"Spaghetti",
+			"Grated Pecorino Romano",
+			"Peppercorns (you can also use pepper but it will change the flavour)"
+		]
+	},
+	{
+		"name": "Caesar Salad",
+		"url": "https://based.cooking/caesar-salad/",
+		"ingredients": [
+			"Romaine Lettuce",
+			"Grated Parmesan Cheese",
+			"Croutons",
+			"Caesar Salad Dressing"
+		]
+	},
+	{
+		"name": "Cannellini Bean Salad",
+		"url": "https://based.cooking/cannellini-bean-salad/",
+		"ingredients": [
+			"1 can Cannellini beans, drained and rinsed",
+			"2 tbsp minced garlic",
+			"1/2 onion",
+			"1 tsp smoked paprika",
+			"1/2 tsp ground cumin",
+			"1 15 oz can diced tomatoes",
+			"1 tbsp parsley flakes",
+			"Prosciutto",
+			"Arugula"
+		]
+	},
+	{
+		"name": "Carbonade Flamande (Traditional Flemish beef stew)",
+		"url": "https://based.cooking/carbonade/",
+		"ingredients": [
+			"beef (chuck, brisket, oxtail...): 1kg | 2 1/4lb",
+			"gingerbread: 5 slices",
+			"brown sugar: 1tbsp",
+			"brown beer (try to get a strong, tasty one): 1L | 4 cups",
+			"onions: 400g | 1lb",
+			"diced smoked bacon: 250g | 1/2lb (optional)",
+			"mustard",
+			"butter",
+			"olive oil",
+			"thyme",
+			"cloves (not garlic cloves, just cloves): 5",
+			"juniper berries: 5",
+			"bay leaves: 2"
+		]
+	},
+	{
+		"name": "Carbonara",
+		"url": "https://based.cooking/carbonara/",
+		"ingredients": [
+			"Spaghetti: 320 g | 11 oz",
+			"Eggs: 5",
+			"Guanciale or Smoked Pancetta (cleaned and cubed): 150 g | 5 oz",
+			"Pecorino Romano or Parmigiano-Reggiano (grated)(optional)"
+		]
+	},
+	{
+		"name": "Ceviche",
+		"url": "https://based.cooking/ceviche/",
+		"ingredients": [
+			"Seafood",
+			"Red Onion",
+			"Lime Juice"
+		]
+	},
+	{
+		"name": "Challah Bread",
+		"url": "https://based.cooking/challah-bread/",
+		"ingredients": [
+			"600ml ( 1 Pint ) warm water",
+			"1 tablespoon dry active baking yeast",
+			"7 tablespoons honey",
+			"1.5kg flour",
+			"3 eggs",
+			"1 tablespoon salt",
+			"1 tablespoon poppy seeds",
+			"4 tablespoons olive oil"
+		]
+	},
+	{
+		"name": "Cheddar-Crusted Chicken",
+		"url": "https://based.cooking/cheddar-crusted-chicken/",
+		"ingredients": [
+			"2 Chicken Breasts",
+			"2 Tbsp Mayonnaise",
+			"1/4 cup Panko Breadcrumbs",
+			"1/4 cup Cheddar Cheese, shredded",
+			"1 Tbsp Smoked Paprika-Garlic Blend"
+		]
+	},
+	{
+		"name": "Cheese ",
+		"url": "https://based.cooking/cheese/",
+		"ingredients": [
+			"thermometer",
+			"1 cheesecloth ",
+			"1 cheese recipient",
+			"2l of milk",
+			"25g of table salt (optional with aging)",
+			"2g of rennet",
+			"Some coarse salt",
+			"Oil and vinegar (for aging)"
+		]
+	},
+	{
+		"name": "Cheesy Meatballs with Tomato Sauce",
+		"url": "https://based.cooking/cheesy-meatballs/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Cheesy Pasta Bake",
+		"url": "https://based.cooking/cheesy-pasta-bake/",
+		"ingredients": [
+			"300-400g Pasta (Fusilli recommended but not essential)",
+			"50g Butter",
+			"100g Flour",
+			"200ml Milk",
+			"400g Cheddar Cheese",
+			"6 Rashers of bacon (optional)"
+		]
+	},
+	{
+		"name": "Cheesy Potato Bake",
+		"url": "https://based.cooking/cheesy-potatoe-bake/",
+		"ingredients": [
+			"30g+ Butter",
+			"250g Cheddar Cheese",
+			"275ml Milk",
+			"16g Flour",
+			"600g Potatoes",
+			"As much bacon as you want to garnish"
+		]
+	},
+	{
+		"name": "Chicharrones",
+		"url": "https://based.cooking/chicharrones/",
+		"ingredients": [
+			"Pork Butt with fat",
+			"Adobo Goya all purpose",
+			"Cumin",
+			"Goya Naranja juice",
+			"Corn oil (preferred)"
+		]
+	},
+	{
+		"name": "Chicken Biscuit Potpie Recipe",
+		"url": "https://based.cooking/chicken-biscuit-potpie/",
+		"ingredients": [
+			"1-2/3 cups frozen mixed vegetables, thawed",
+			"1-1/2 cups cubed cooked chicken",
+			"1 can (10-3/4 ounces) condensed cream of chicken soup, undiluted",
+			"1/4 teaspoon dried thyme",
+			"1 cup biscuit/baking mix",
+			"1/2 cup whole milk",
+			"1 large egg"
+		]
+	},
+	{
+		"name": "Chicken in Red Wine Vinegar Sauce",
+		"url": "https://based.cooking/chicken-in-red-wine-vinegar-sauce/",
+		"ingredients": [
+			"3 tablespoons/~44 milliliters extra-virgin olive oil",
+			"1 tablespoon/~14 grams unsalted butter",
+			"1 whole chicken, cut into 10 pieces (alternatively, use breasts or legs)",
+			"4 shallots, finely chopped",
+			"1 cup/720 milliliters red wine vinegar",
+			"1 cup/240 milliliters crème fraîche or heavy cream",
+			"Finely chopped parsley (optional)"
+		]
+	},
+	{
+		"name": "Chicken Paprikash",
+		"url": "https://based.cooking/chicken-paprikash/",
+		"ingredients": [
+			"8 bone-in, skin-on chicken thighs",
+			"salt to taste",
+			"pepper to taste",
+			"2 cups chicken or beef broth",
+			"2 tablespoons olive oil",
+			"2 medium sized onions",
+			"1 tablespoon powdered garlic",
+			"3 tablespoons tomato paste",
+			"1/4 cup Hungarian paprika or regular paprika",
+			"1 tablespoon cayenne pepper (optional)",
+			"1 cup sour cream (optional)"
+		]
+	},
+	{
+		"name": "Chicken Parmesan",
+		"url": "https://based.cooking/chicken-parmesan/",
+		"ingredients": [
+			"chicken breasts",
+			"tomatoes (San Marzano is best)",
+			"mozzarella cheese",
+			"parmesan cheese",
+			"bread crumbs",
+			"eggs",
+			"flour",
+			"[pasta sauce](/pasta-sauce)"
+		]
+	},
+	{
+		"name": "Chicken Pasta Casserole",
+		"url": "https://based.cooking/chicken-pasta-casserole/",
+		"ingredients": [
+			"16oz (450g) macaroni (elbow, penne)",
+			"24oz (700g) raw chicken breast, diced",
+			"9oz (250g) mozzarella cheese, shredded",
+			"1.5oz (40g) parmesan cheese, grated",
+			"1.5oz (40g) bread crumbs",
+			"16oz (450g) diced tomatoes",
+			"Some oil and butter",
+			"(Optional) More mozzarella and parmesan for fans of cheese."
+		]
+	},
+	{
+		"name": "Chicken Satay with Peanut Sauce ",
+		"url": "https://based.cooking/chicken-satay/",
+		"ingredients": [
+			"2 lbs boneless chicken breast or thigh",
+			"1.5 tbsp oyster sauce",
+			"1 tbsp ground tumeric",
+			"2 tbsp sugar",
+			"2 tbsp coconut milk",
+			"3 tbsp peanut butter (creamy)",
+			"1 tbsp massaman curry paste",
+			"water to thin peanut sauce"
+		]
+	},
+	{
+		"name": "Chicken Soup",
+		"url": "https://based.cooking/chicken-soup/",
+		"ingredients": [
+			"2 [chicken breasts](/pan-seared-chicken)",
+			"1 Onion",
+			"2 carrots",
+			"2 celery stalks",
+			"32 oz / 950ml Chicken Stock or Broth",
+			"Pasta (Optional)"
+		]
+	},
+	{
+		"name": "Chicken Stock or Bone Broth",
+		"url": "https://based.cooking/chicken-stock-bone-broth/",
+		"ingredients": [
+			"a whole raw chicken with organs removed (Drumsticks or thighs alone might suffice if a whole chicken is unavailable.)",
+			"onions",
+			"celery",
+			"carrots",
+			"optional aromatic ingredients"
+		]
+	},
+	{
+		"name": "Slow-cooked Chicken Tacos",
+		"url": "https://based.cooking/chicken-tacos/",
+		"ingredients": [
+			"chicken breasts",
+			"two or three onions (preferably red)",
+			"seasoning:",
+			"cheese (either shredded Mexican blend or crumbling cheese)",
+			"small tortillas",
+			"lime",
+			"cilantro, tomato, lettuce, other desired taco contents"
+		]
+	},
+	{
+		"name": "Chicken Tenders Airfried",
+		"url": "https://based.cooking/chicken-tenders-airfried/",
+		"ingredients": [
+			"Raw chicken strips",
+			"Flour",
+			"Egg wash",
+			"Bread crumbs",
+			"Olive oil",
+			"Seasoning: salt and pepper with cayenne or paprika (optional)"
+		]
+	},
+	{
+		"name": "Chicken Tikka Masala",
+		"url": "https://based.cooking/chicken-tikka-masala/",
+		"ingredients": [
+			"1 can (29 ounces) tomato puree",
+			"1-1/2 cups plain yogurt",
+			"1/2 large onion, finely chopped",
+			"2 tablespoons olive oil",
+			"4-1/2 teaspoons minced fresh gingerroot",
+			"4 garlic cloves, minced",
+			"1 tablespoon [garam masala](/garam-masala)",
+			"2-1/2 teaspoons salt",
+			"1-1/2 teaspoons ground cumin",
+			"1 teaspoon paprika",
+			"3/4 teaspoon pepper",
+			"1/2 teaspoon cayenne pepper",
+			"1/4 teaspoon ground cinnamon",
+			"2-1/2 pounds boneless skinless chicken breasts, cut into 1-1/2-inch cubes",
+			"1 jalapeno pepper, halved and seeded",
+			"1 bay leaf",
+			"1 tablespoon cornstarch",
+			"1 cup heavy whipping cream",
+			"Hot cooked basmati rice",
+			"Chopped fresh cilantro, optional"
+		]
+	},
+	{
+		"name": "Chicken, Tomato and Spinach Curry",
+		"url": "https://based.cooking/chicken-tomato-spinach-curry/",
+		"ingredients": [
+			"500g or 1lb of chicken breast",
+			"Virgin olive oil (1/2 cup or ~100ml)",
+			"Fresh tomatoes of any variety (10 - 15 medium sized)",
+			"Two medium sized onions",
+			"250g or 1/2lbs of *fresh* spinach",
+			"Curry powder of your favourite variety",
+			"Red chilies (or red chilli paste)",
+			"Any extra herbs or spices to your taste"
+		]
+	},
+	{
+		"name": "Chicken Wings",
+		"url": "https://based.cooking/chicken-wings/",
+		"ingredients": [
+			"Chicken wings and drums",
+			"Enough Frank's RedHot Sauce to marinate and top dress*",
+			"Reynold's Oven Bag"
+		]
+	},
+	{
+		"name": "Chili Con Carne",
+		"url": "https://based.cooking/chili-con-carne/",
+		"ingredients": [
+			"Canned Whole Peeled Tomatoes",
+			"Red Peppers",
+			"White Onions",
+			"Chili Pepper",
+			"Garlic",
+			"Ground Beef",
+			"Kidney Beans",
+			"Dark Chocolate",
+			"Chili Powder",
+			"Tomato Paste",
+			"Beef Stock (optional)",
+			"Neutral Oil",
+			"Cilantro",
+			"Sugar",
+			"seasoning"
+		]
+	},
+	{
+		"name": "Chimichanga",
+		"url": "https://based.cooking/chimichanga/",
+		"ingredients": [
+			"[taco-meat](/taco-meat)",
+			"1 Onion",
+			"Diced Tomatoes",
+			"1 Bell Pepper",
+			"Burrito sized tortilla",
+			"Plain Greek Yogurt or Sour Cream",
+			"Any other vegetables you want",
+			"Shredded cheese of choice (Optional)"
+		]
+	},
+	{
+		"name": "Chipolata Sausage in Balsamic Vinegar",
+		"url": "https://based.cooking/chipolata-in-balsamic-vinegar/",
+		"ingredients": [
+			"12 chipolata sausages",
+			"4 red onions",
+			"500g of cherry tomatoes (preferably mixed species)",
+			"4 garlic cloves",
+			"Fresh basil leaves",
+			"Black balsamic vinegar",
+			"1 loaf of ciabatta bread"
+		]
+	},
+	{
+		"name": "Chocolate Chip Cookies ",
+		"url": "https://based.cooking/chocolate-chip-cookies/",
+		"ingredients": [
+			"230 g melted butter (2 sticks)",
+			"330 g bread flour",
+			"5 g salt",
+			"5 g baking soda",
+			"100-200 g white sugar",
+			"100-200 g brown sugar",
+			"1 egg",
+			"15 g milk",
+			"5 g vanilla",
+			"225 g 50-70% dark chocolate chips or semi-sweet milk chocolate chips"
+		]
+	},
+	{
+		"name": "Chorizo & Chickpea Soup",
+		"url": "https://based.cooking/chorizo-and-chickpea-soup/",
+		"ingredients": [
+			"Chorizo Sausage(s)",
+			"2 Garlic cloves",
+			"Ginger",
+			"Paprika, 2 Tsp",
+			"Cumin, Parsley",
+			"Juice from whole Lemon",
+			"Chickpeas, 400g ( drained )",
+			"Butter and sunflower oil, for frying"
+		]
+	},
+	{
+		"name": "Cinque Pi",
+		"url": "https://based.cooking/cinque-pi/",
+		"ingredients": [
+			"pasta: 800g | 1 1/2 lb",
+			"Cream: 4dl | 1 1/2 cups",
+			"Tomato paste 2 TS",
+			"Parmigiano (grated)",
+			"Parsley"
+		]
+	},
+	{
+		"name": "Classic béchamel sauce",
+		"url": "https://based.cooking/classic-bechamel-sauce/",
+		"ingredients": [
+			"5 Teaspoons unsalted butter",
+			"5 Teaspoons flour",
+			"1 litre whole milk",
+			"Salt to taste",
+			"Pepper to taste",
+			"Pinch of nutmeg"
+		]
+	},
+	{
+		"name": "Keto Coconut Bread",
+		"url": "https://based.cooking/coconut-flour-bread/",
+		"ingredients": [
+			"6 Medium Eggs (or 5 Extra Large)",
+			"1 Tbsp Coconut Oil",
+			"¾ cup Coconut Flour",
+			"1 tsp Baking Powder",
+			"Pinch of Salt",
+			"½ tsp or less of Xanthan Gum (optional, to have a more stick bread)"
+		]
+	},
+	{
+		"name": "Coconut Oil Coffee",
+		"url": "https://based.cooking/coconut-oil-coffee/",
+		"ingredients": [
+			"1 cup hot coffee",
+			"1 tbsp coconut oil",
+			"1 tbsp unsalted butter"
+		]
+	},
+	{
+		"name": "Colcannon Bake",
+		"url": "https://based.cooking/colcannon-bake/",
+		"ingredients": [
+			"3 Potatoes, peeled and quartered",
+			"7 Tbsp Butter, cut into small chunks",
+			"1/2 cup Sour Cream",
+			"1 Egg",
+			"1 Tbsp Milk",
+			"3 cup Cabbage, shredded",
+			"2 Leeks, chopped",
+			"1 small Onion, chopped",
+			"2 cubes Chicken Bouillon",
+			"1/2 cup Cheddar Cheese, shredded"
+		]
+	},
+	{
+		"name": "Coleslaw",
+		"url": "https://based.cooking/coleslaw/",
+		"ingredients": [
+			"3/4 cup mayonnaise",
+			"1/2 cup buttermilk",
+			"3 tbsp lemon juice",
+			"3 tbsp apple cider vinegar",
+			"4 tbsp distilled vinegar",
+			"1/3 cup olive oil",
+			"1/4 cup granulated sugar",
+			"1 1/2 tsp kosher salt",
+			"1 tsp ground black pepper",
+			"1 tsp celery seeds",
+			"1/2 tsp onion powder",
+			"1/4 tsp granulated garlic",
+			"1/4 tsp mustard powder",
+			"One large head of green cabbage",
+			"One large carrot"
+		]
+	},
+	{
+		"name": "Collard Greens with Smoked Duck and Parsnips",
+		"url": "https://based.cooking/collard-greens-with-smoked-duck-and-parnips/",
+		"ingredients": [
+			"1/2 smoked duck breast (skin on) chopped",
+			"1 large onion sliced",
+			"1 small parsnip julienned",
+			"1 large bunch collard greens chopped into ribbons",
+			"1/2 green cabbage cut into ribbons (optional)",
+			"1–2 tablespoons olive oil and/or butter",
+			"1 teaspoon ground coriander",
+			"1/2 teaspoon cinnamon",
+			"1/2 teaspoon garam masala"
+		]
+	},
+	{
+		"name": "Cooked Chickpeas",
+		"url": "https://based.cooking/cooked-chickpeas/",
+		"ingredients": [
+			"1 can chickpeas / garbanzo beans, drained",
+			"1 tbsp olive oil",
+			"1 tsp garlic powder",
+			"1 tsp cumin",
+			"1 tsp paprika",
+			"1 tsp cayenne pepper"
+		]
+	},
+	{
+		"name": "Coriander Chicken",
+		"url": "https://based.cooking/coriander-chicken/",
+		"ingredients": [
+			"500g boneless chicken breast",
+			"250g fat free yoghurt",
+			"250g coriander leaves",
+			"Mustard oil / Sunflower oil",
+			"Sugar",
+			"Ginger",
+			"Garlic",
+			"2 medium onions",
+			"Green chillies",
+			"[Garam masala](/garam-masala)",
+			"2/3 Cardamom pods",
+			"1 Bayleaf",
+			"1 Cinnamom stick"
+		]
+	},
+	{
+		"name": "Corn Salsa",
+		"url": "https://based.cooking/corn-salsa/",
+		"ingredients": [
+			"2 pounds frozen corn, defrosted",
+			"1/2 Red onion, finely chopped",
+			"4 Radishes, sliced thin and chopped",
+			"Few pinches of Cilantro, finely chopped",
+			"1-2 Jalepenos, finely chopped (optional)",
+			"Juice of 2-3 Limes",
+			"Salt and pepper, to taste"
+		]
+	},
+	{
+		"name": "Country Crisp Cereals",
+		"url": "https://based.cooking/country-crisp-cereals/",
+		"ingredients": [
+			"Oat Flakes (270 g - 800 mL)",
+			"Rice Flour (or any other flour) (20 g - 55mL)",
+			"Sugar (100 g)",
+			"Crushed Hazelnuts (20 g)",
+			"Oil (any type) (60 g - 75 mL)",
+			"Water (50 g)",
+			"Chocolate (70 g) (optional)",
+			"Vanilla Extract (1/2 tsp) (optional)"
+		]
+	},
+	{
+		"name": "Country Breakfast Skillet",
+		"url": "https://based.cooking/country-skillet/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Tunisian Couscous",
+		"url": "https://based.cooking/couscous/",
+		"ingredients": [
+			"2 lb lamb stew meat , cut into large pieces",
+			"6 cups couscous fine semolina (or medium)",
+			"2 onions , finely chopped",
+			"2 cloves garlic , pressed",
+			"4 tablespoons tomato paste",
+			"2 tablespoons harissa",
+			"2 tablespoons ground caraway",
+			"1 tablespoon ground coriander",
+			"1 teaspoon chili powder",
+			"4 turnips , cut in half",
+			"6 medium carrots , peeled",
+			"4 zucchini , peeled lengthwise, alternately leaving a layer of skin",
+			"6 small potatoes , peeled",
+			"10 oz. chickpeas (canned)",
+			"4 green hot peppers , fried in oil (optional)",
+			"Vegetable oil",
+			"Salt",
+			"Pepper"
+		]
+	},
+	{
+		"name": "Crab salad",
+		"url": "https://based.cooking/crab-salad/",
+		"ingredients": [
+			"Сrab meat (300 grams)",
+			"Egg (3)",
+			"Rice (50 grams)",
+			"Corn (1 can)",
+			"Cucumber (1)",
+			"Carrot (1)",
+			"Onion (1)",
+			"Mayonnaise (100 grams)"
+		]
+	},
+	{
+		"name": "Cream Cheese ",
+		"url": "https://based.cooking/cream-cheese/",
+		"ingredients": [
+			"thermometer",
+			"1 cheesecloth ",
+			"1 cheese recipient",
+			"250ml of fresh, non-UHT milk",
+			"250ml of yogurt",
+			"1lt of fresh cream",
+			"5g of table salt",
+			"6g of of citric acid (contained in 130ml of lemon juice) "
+		]
+	},
+	{
+		"name": "Creamy Mashed Potatoes",
+		"url": "https://based.cooking/creamy-mashed-potatoes/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Croque-monsieur bites",
+		"url": "https://based.cooking/croque-monsieur/",
+		"ingredients": [
+			"For the bechamel",
+			"For the bites"
+		]
+	},
+	{
+		"name": "Croutons",
+		"url": "https://based.cooking/croutons/",
+		"ingredients": [
+			"Hearty White Bread",
+			"Extra Virgin Olive Oil",
+			"Spices"
+		]
+	},
+	{
+		"name": "Cuca Italiana",
+		"url": "https://based.cooking/cuca-italiana/",
+		"ingredients": [
+			"3 cups of all-purpose flour",
+			"1 1/2 cups of sugar",
+			"3/4 of a cup of warm water",
+			"2 eggs",
+			"6 tablespoons of milk",
+			"2 tablespoons of lard or butter",
+			"1 tablespoon of instant dry yeast",
+			"A pinch of nutmeg",
+			"1 teaspoon of vanilla essence (optional).",
+			"Optional herbs and spices: Fennel seeds, cinammon, cloves. Don't put too many though.",
+			"1 cup of sugar",
+			"1/2 cup of flour",
+			"2 tablespoons of lard or butter",
+			"1 teaspoon of vanilla essence"
+		]
+	},
+	{
+		"name": "Curry sauce",
+		"url": "https://based.cooking/curry-sauce/",
+		"ingredients": [
+			"25g butter",
+			"1 onion, sliced",
+			"2 garlic cloves, sliced",
+			"Thumb of ginger, sliced",
+			"2 tbsp curry powder",
+			"1/2 tsp turmeric",
+			"1 tbsp malt vinegar",
+			"1 star anise",
+			"250ml chicken stock",
+			"1 tbsp cornflour",
+			"2 tbsp water",
+			"Lemon juice (optional)"
+		]
+	},
+	{
+		"name": "Danish Pancake",
+		"url": "https://based.cooking/danish-pancake/",
+		"ingredients": [
+			"375g wheat flour",
+			"a little bit of salt (1/3 of a teaspoon)",
+			"1 ½ tablespoon sugar",
+			"9 dl milk",
+			"4 eggs"
+		]
+	},
+	{
+		"name": "Demi-glace",
+		"url": "https://based.cooking/demi-glace/",
+		"ingredients": [
+			"1 qt (32 oz, 946mL) **low-sodium** broth or stock (I prefer Pacific Foods)",
+			"1 1/4 oz (7g) packet **unflavored, unsweetened** gelatin",
+			"1 teaspoon (5mL) tomato paste",
+			"1 teaspoon (5mL) **low-sodium** soy sauce",
+			"1/2 teaspoon onion powder (_very_ optional)"
+		]
+	},
+	{
+		"name": "Dianne's Southwestern Cornbread Salad",
+		"url": "https://based.cooking/diannes-southwest-salad/",
+		"ingredients": [
+			"1 (6-ounce) package Mexican cornbread mix",
+			"1 (1-ounce) envelope buttermilk Ranch salad dressing mix",
+			"1 small head romaine lettuce, shredded",
+			"2 large tomatoes, chopped",
+			"1 (15-ounce) can black beans, rinsed and drained",
+			"1 (8-ounce) package shredded Mexican four-cheese blend",
+			"6 bacon slices, cooked and crumbled",
+			"5 green onions, chopped"
+		]
+	},
+	{
+		"name": "Dominican Spaghetti",
+		"url": "https://based.cooking/dominican-spaghetti/",
+		"ingredients": [
+			"1 box Spaghetti",
+			"1 Onion minced",
+			"1 Green Pepper minced",
+			"2 Garlic cloves minced",
+			"1 tbsp Chicken Bouillon Cube or Adobo",
+			"1 tbsp sazón",
+			"1 tbsp Tomato Paste",
+			"1 cup Tomato Sauce",
+			"1 tbsp Butter",
+			"¼ cup Evaporated Milk",
+			"2 tbsp Green Olives",
+			"1 tsp Sugar",
+			"1 cup Starchy Pasta Water"
+		]
+	},
+	{
+		"name": "Red Bean Buns (豆沙包)",
+		"url": "https://based.cooking/dou-sha-bao/",
+		"ingredients": [
+			"350g (~12 oz) wheat flour",
+			"1 sachet (~ 4g / 0.14 oz) baker's yeast",
+			"1 teaspoon baking powder",
+			"200g (7 oz) sugar",
+			"20cl (~ 0,05 gal) water",
+			"1 teaspoon sunflower oil",
+			"250g (~ 9 oz)red beans Azuki (soak 24h before recipe)",
+			"salt",
+			"6 baking paper square 7x7cm (~ 3x3inches)"
+		]
+	},
+	{
+		"name": "Dried tomato & plum bread spread",
+		"url": "https://based.cooking/dried-tomato-plum-spread/",
+		"ingredients": [
+			"10 dried plums",
+			"1 jar of dried tomatoes",
+			"1 tsp of smoked paprika",
+			"pinch of dried coriander (optional)",
+			"pinch of chilli (optional, if you like it to be spicy)"
+		]
+	},
+	{
+		"name": "Drunken beans (Pintos Borrachos)",
+		"url": "https://based.cooking/drunken-beans/",
+		"ingredients": [
+			"1 small yellow onion",
+			"3 gloves of garlic",
+			"2 tomatoes. chopped",
+			"4 cups of water",
+			"1 1/2 cups of pinto beans (can be dried or canned)",
+			"1 tbsp oregano",
+			"3/4 tsp cumin",
+			"2 tbsp chilli powder(depends how hot you like it)",
+			"12oz of Beer/dark ale"
+		]
+	},
+	{
+		"name": "Dulce de Leche     ",
+		"url": "https://based.cooking/dulce-de-leche/",
+		"ingredients": [
+			"1 liter of milk.                           ",
+			"350 grams of sugar. ",
+			"Half a teaspoon of baking soda.",
+			"A vanilla bean, or essence (Optional)                                                                               ",
+			"Two glass marbles (Optional, but it is a traditional way to prevent sticking, and they will not break in the process.)"
+		]
+	},
+	{
+		"name": "Easy Chicken and Rice Casserole",
+		"url": "https://based.cooking/easy-chicken-and-rice-casserole/",
+		"ingredients": [
+			"1/2 cup Onion, chopped",
+			"1/2 cup Celery, chopped",
+			"2 Tbsp Butter or margarine",
+			"2 cups Chicken, cooked and chopped",
+			"1 3/4 cups Hot water",
+			"2/3 cup Long Grain White Rice",
+			"1 can (10 oz) Mushrooms with liquid",
+			"1 cup Frozen Peas and Carrots",
+			"1 tsp Dried Thyme and Rosemary"
+		]
+	},
+	{
+		"name": "Easy Pizza Sauce",
+		"url": "https://based.cooking/easy-pizza-sauce/",
+		"ingredients": [
+			"2 onions",
+			"3 garlic cloves",
+			"olive oil",
+			"700g tomato sauce",
+			"6 spoon tomato concentrate",
+			"0.5 spoon sugar",
+			"1 spoon salt",
+			"1 spoon pepper",
+			"1 spoon thyme/rosemary (finely chopped)",
+			"1 spoon oregano (finely chopped)",
+			"2 spoon basil (finely chopped)"
+		]
+	},
+	{
+		"name": "Egg Roll in a Bowl",
+		"url": "https://based.cooking/eggroll-in-a-bowl/",
+		"ingredients": [
+			"1 pound ground turkey",
+			"1 bag coleslaw mix",
+			"1 small onion",
+			"2-3 cloves of garlic",
+			"1 tbsp fresh ginger",
+			"1/4 cup Hoisin sauce",
+			"soy sauce",
+			"sesame oil"
+		]
+	},
+	{
+		"name": "Eggs",
+		"url": "https://based.cooking/eggs/",
+		"ingredients": [
+			"eggs",
+			"butter",
+			"cheese(optional)",
+			"milk (optional)"
+		]
+	},
+	{
+		"name": "Egyptian Lentils",
+		"url": "https://based.cooking/egyptian-lentils/",
+		"ingredients": [
+			"1 cup Lentils",
+			"1 cup Elbow Macaroni",
+			"2 Fresh Chili or Bell Peppers",
+			"2 Tbsp Lime Juice",
+			"1 1/2 cup Regular Rice",
+			"3 Tbsp Oil",
+			"2 medium Tomatoes, chopped",
+			"1 large Onion, diced"
+		]
+	},
+	{
+		"name": "Erwtensoep (Dutch pea soup)",
+		"url": "https://based.cooking/erwtensoep/",
+		"ingredients": [
+			"7 1/2 cups / 1.75 liters water",
+			"1 1/2 cups / 300 grams peas (dried green split)",
+			"3 1/2 ounces / 100 grams pork belly (Dutch speklapjes or thick-cut bacon)",
+			"1 pork chop",
+			"1 bouillon cube (vegetable, pork or chicken)",
+			"2 ribs celery",
+			"2 to 3 carrots (peeled and sliced)",
+			"1 large potato (peeled and cubed)",
+			"1 small onion (chopped)",
+			"1 small leek (sliced)",
+			"1 cup celeriac (cubed)",
+			"1 pound sausage (chopped rookworst, smoked sausage)",
+			"Salt and pepper"
+		]
+	},
+	{
+		"name": "Exotic Ginger Cumin Chicken",
+		"url": "https://based.cooking/exotic-ginger-cumin-chicken/",
+		"ingredients": [
+			"1 Tbsp Vegetable Oil, divided",
+			"2 lbs Boneless Skinless Chicken, cut bite-size",
+			"2 tsp Garlic, minced",
+			"1/2 cup Onion, chopped",
+			"1 Tbsp Ginger Root, minced",
+			"1/2 tsp Cayenne Pepper",
+			"1 tsp Cumin",
+			"1 tsp Turmeric",
+			"1/2 cup Chicken Stock",
+			"1 can (19oz) Stewed Tomatoes",
+			"2 Tbsp Tomato Paste",
+			"1 tsp Sugar",
+			"3/4 cup Low Fat Plain Yogurt"
+		]
+	},
+	{
+		"name": "Fajita Seasoning",
+		"url": "https://based.cooking/fajita-seasoning/",
+		"ingredients": [
+			"1/2 tsp Garlic Powder",
+			"1/2 tsp Onion Powder",
+			"1/2 tsp Paprika",
+			"1/2 tsp Smoked Paprika",
+			"1/2 tsp Ground Cumin",
+			"1/2 tsp Ground Coriander",
+			"1/2 tsp Oregano",
+			"1/2 tsp Cayenne Pepper",
+			"1 tsp Salt",
+			"1 tsp Brown Sugar",
+			"1.5 tsp Chili Powder"
+		]
+	},
+	{
+		"name": "Fajitas",
+		"url": "https://based.cooking/fajitas/",
+		"ingredients": [
+			"1/4 cup + 1/2 tsp Lime Juice, divided",
+			"3 Tbsp Olive Oil, divided",
+			"4 cloves Garlic, crushed",
+			"3 tsp Soy Sauce, divided",
+			"1 tsp Salt",
+			"1/2 tsp Liquid Smoke",
+			"1/2 tsp Cayenne Pepper",
+			"1/4 tsp Black Pepper",
+			"1 lb Chicken Breasts or Skirt Steak, bones/skin removed",
+			"2 Tbsp Water",
+			"1 large Spanish Onion, thinly sliced",
+			"1/2 each Green, Red, and Yellow Bell Pepper, thinly sliced"
+		]
+	},
+	{
+		"name": "Fall Vegetable and Chickpea Curry",
+		"url": "https://based.cooking/fall-vegetable-and-chickpea-curry/",
+		"ingredients": [
+			"1 Tbsp Butter",
+			"1 Onion, chopped",
+			"2 Tbsp Thai Red Curry Paste",
+			"1 Tbsp Ginger, minced",
+			"1 large Sweet Potato, peeled and cut into half-inch chunks",
+			"1 small Zucchini, cut into half-inch chunks",
+			"1 Red Pepper, cut into half-inch pieces",
+			"28 oz can Chickpeas, rinsed and drained",
+			"1 Lime",
+			"3 Tbsp Wheat Flour",
+			"1 1/2 cup Milk",
+			"1/2 cup Fresh Coriander, chopped"
+		]
+	},
+	{
+		"name": "Farcies tomatoes",
+		"url": "https://based.cooking/farci-tomatoes/",
+		"ingredients": [
+			"2 tomatoes per person.",
+			"300g of ground beef meat.",
+			"1 or 2 onions.",
+			"Condiments of your choice: Parsley, origan or cumin.",
+			"Olive oil",
+			"Gruyere cheese.",
+			"Salt and pepper.",
+			"Optional: Butter."
+		]
+	},
+	{
+		"name": "Fennel White Bean and Kale Soup",
+		"url": "https://based.cooking/fennel-beans-and-kale-soup/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Fish Curry",
+		"url": "https://based.cooking/fish-curry/",
+		"ingredients": [
+			"3T neutral oil",
+			"1 onion",
+			"1 red onion",
+			"2 cloves of garlic",
+			"4cm ginger",
+			"1 red pepper",
+			"1t curry powder",
+			"250g green beans",
+			"4 tomatoes",
+			"200ml fish broth",
+			"200ml coconut milk",
+			"400g fish fillet (white fish)"
+		]
+	},
+	{
+		"name": "Flammkuchen",
+		"url": "https://based.cooking/flammkuchen/",
+		"ingredients": [
+			"400g Pizza dough (either bought or from [Pizza Dough](/pizza-dough))",
+			"1 onion (I prefer the red ones for optical reasons)",
+			"150g bacon (you can replace it with mushrooms or other vegetables)",
+			"2 big spoons of sour creme or creme fraiche"
+		]
+	},
+	{
+		"name": "Fondue",
+		"url": "https://based.cooking/fondue/",
+		"ingredients": [
+			"1 garlic clove",
+			"4 dl (1.5 cups) white wine",
+			"800 g (1.7 lbs) swiss cheese (50/50 mix of Gruyère and Emmentaler recommended)",
+			"1 shot of kirsch (cherry brandy)",
+			"1 tsp lemon juice",
+			"1-2 tbsp starch flour",
+			"1 loaf (~800g/~1.7 lbs) of white bread",
+			"A pinch of nutmeg"
+		]
+	},
+	{
+		"name": "Francesinha",
+		"url": "https://based.cooking/francesinha/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "French Crêpes",
+		"url": "https://based.cooking/french-crepes/",
+		"ingredients": [
+			"300g white flour",
+			"3 eggs",
+			"60cl milk",
+			"20cl beer",
+			"30g butter or 3 tablespoons of oil"
+		]
+	},
+	{
+		"name": "French mustard sauce porkchops (Côtes de porc charcutières)",
+		"url": "https://based.cooking/french-mustard-sauce-porkchops/",
+		"ingredients": [
+			"porkchops: 4",
+			"shallots: 2",
+			"gerkins: a dozen medium sized ones",
+			"white wine: 350ml | 1 1/2 cup",
+			"brown stock: 100ml | 1/2 cup",
+			"mustard: 2tbsp",
+			"butter",
+			"olive oil"
+		]
+	},
+	{
+		"name": "French Onion Soup",
+		"url": "https://based.cooking/french-onion-soup/",
+		"ingredients": [
+			"6-7 Onions, cut into quarter moons",
+			"1 stick of butter",
+			"1/2 cup Olive oil",
+			"Salt, to taste",
+			"1 Baguette Loaf, sliced",
+			"1 Can of Chicken Broth",
+			"3 Garlic cloves, finely chopped",
+			"1/4 cup brown sugar",
+			"Balsamic vinegar, to taste",
+			"Worcestershire Sauce, to taste",
+			"Soy Sauce, to taste",
+			"64oz Beef Broth",
+			"2-3 Bay Leaves",
+			"Melty cheese, preferably guereye or swiss"
+		]
+	},
+	{
+		"name": "French Toast",
+		"url": "https://based.cooking/french-toast/",
+		"ingredients": [
+			"2 Eggs",
+			"1/2 Cup of milk (1/4 for a more solid consistency)",
+			"5 Slices of bread",
+			"Maple Syrup (Optional)",
+			"Butter"
+		]
+	},
+	{
+		"name": "Fried Anglerfish fillet",
+		"url": "https://based.cooking/fried-anglerfish-fillet/",
+		"ingredients": [
+			"1 Anglerfish",
+			"Butter, enough to fry with",
+			"Chives or green onions",
+			"Marjoram, fresh herbs are preferable"
+		]
+	},
+	{
+		"name": "Fried Potatoes",
+		"url": "https://based.cooking/fried-potatoes/",
+		"ingredients": [
+			"Potatoes",
+			"Oil or Crème Fraîche",
+			"Onions"
+		]
+	},
+	{
+		"name": "Frijol con puerco",
+		"url": "https://based.cooking/frijol-con-puerco/",
+		"ingredients": [
+			"**1 kg of black beans**, rinsed and drained.",
+			"**2 kg** of pork loin or ribs cut into **5 cm** pieces, it can be mixture of the two.",
+			"**1 white onion** without skin cut, in half.",
+			"**4 branches of fresh _epazote_**, or **15 branches of coriander** tied with kitchen twine.",
+			"**8 to 10 radishes**, julienned or striped.",
+			"**1 cup of chopped cilantro**.",
+			"**1 Mexican avocado**, halved, pitted, pulp cut into squares.",
+			"**4 lemons**, quartered.",
+			"**Yucatan style tomato sauce** or _Chiltomate_ to taste (**optional**)",
+			"**Mexican tortillas**"
+		]
+	},
+	{
+		"name": "Frittata",
+		"url": "https://based.cooking/frittata/",
+		"ingredients": [
+			"4-6 Eggs",
+			"1/2 Onion",
+			"1 Bell Pepper",
+			"2 Tbsp Heavy Cream",
+			"Thinly sliced meat (prosciutto, shaved chicken, sandwich steak, etc.) (Optional)",
+			"Shredded cheese of choice (Optional)"
+		]
+	},
+	{
+		"name": "Full English Breakfast",
+		"url": "https://based.cooking/full-english-breakfast/",
+		"ingredients": [
+			"4 raw sausages (English sausages to be authentic)",
+			"4 slices of bacon (English back bacon to be authentic)",
+			"2 eggs",
+			"half a tin (200g) of baked beans",
+			"2 slices of bread",
+			"1 large tomato",
+			"half a cup (120g) of button mushrooms"
+		]
+	},
+	{
+		"name": "Galinha Caipira",
+		"url": "https://based.cooking/galinha-caipira/",
+		"ingredients": [
+			"A whole ckicken weighing close to 2,5kg (roughly 3 pounds). Avoid industrially grown birds, as those can make the stew very greasy and flavorless.",
+			"A cup of diced onions of any kind.",
+			"Half a cup of diced chives.",
+			"A tablespoon of lard.",
+			"A full kettle of boiled water."
+		]
+	},
+	{
+		"name": "Garam Masala",
+		"url": "https://based.cooking/garam-masala/",
+		"ingredients": [
+			"4 Green Cardamom",
+			"2 Black Cardamom",
+			"1 tbsp Coriander",
+			"2 Cloves",
+			"1 tbsp Cumin",
+			"1 tbsp Fennel seeds",
+			"5/6 Bayleaf",
+			"5/6 Black pepper pods",
+			"1 Star anise (Optional)",
+			"Mace (Optional): Mace is a dried flower originating from the Nutmeg plant. Use no more than 3 strands of this flower."
+		]
+	},
+	{
+		"name": "Garlic Toast",
+		"url": "https://based.cooking/garlic-toast/",
+		"ingredients": [
+			"Any kind of firm, thin, sliced bread (Sourdough, Baguette)",
+			"Garlic-infused olive oil (Optionally substitute butter or regular olive oil)",
+			"Garlic salt"
+		]
+	},
+	{
+		"name": "Ginataang Kalabasa",
+		"url": "https://based.cooking/ginataang-kalabasa/",
+		"ingredients": [
+			"One medium sized squash that is easy to peel (butternut squash is usually best)",
+			"Two cans of coconut milk",
+			"One onion",
+			"A few cloves of garlic"
+		]
+	},
+	{
+		"name": "Broccoli with Ginger and Garlic Sauce",
+		"url": "https://based.cooking/ginger-garlic-broccoli/",
+		"ingredients": [
+			"1-2 Broccoli (fresh best, frozen works too)",
+			"Minced garlic (1 tablespoon)",
+			"Minced ginger (1 tablespoon)",
+			"Sherry or regular white wine (you cook with what you drink with!) (1 tablespoon)",
+			"Soy sauce (1-2 tablespoon)"
+		]
+	},
+	{
+		"name": "Glühwein - mulled wine",
+		"url": "https://based.cooking/gluehwein/",
+		"ingredients": [
+			"300 ml Cassis-Juice (Johannesbeer), if you can't find it you can replace it with another juice, I did it e.g. with cranberry pomegranate juice",
+			"1 bottle 700ml red wine (I prefer Primitivo/Zinfandel), don't buy a cheap cooking wine, you want to drink it :)",
+			"50 g Sugar",
+			"25 g Raisins",
+			"1 orange",
+			"1 cinamon bark",
+			"1 spoon ginger powder (or a bit of fresh ginger)",
+			"1 spoon cloves",
+			"5 star anise",
+			"if you don't have the spices you can also just throw in sweet cinamon tea bags instead (or similar), they contain most spices - I took 6 teabags for 1 litre"
+		]
+	},
+	{
+		"name": "Gnocchi",
+		"url": "https://based.cooking/gnocchi/",
+		"ingredients": [
+			"potatoes",
+			"flour",
+			"tomato",
+			"parmesan",
+			"butter",
+			"sage or oregano or thyme"
+		]
+	},
+	{
+		"name": "Grands-pères au sirop d'érable (Maple Dumplings)",
+		"url": "https://based.cooking/grands-peres/",
+		"ingredients": [
+			"1 cup flour",
+			"2 TSP baking powder",
+			"1 pinch salt",
+			"2 TB butter, cut into pieces",
+			"½ cup milk",
+			"1 cup water",
+			"1 cup maple syrup"
+		]
+	},
+	{
+		"name": "Granola",
+		"url": "https://based.cooking/granola/",
+		"ingredients": [
+			"3 cups Oats",
+			"1/2 cup Olive Oil",
+			"1/2 cup Maple Syrup",
+			"1 cup Chopped Nuts (Almonds, Pumpkin Seeds, etc)",
+			"1 tsp Ground Cloves",
+			"1 tsp Ground Cardamom",
+			"1 cup Dried Fruit (Apricots, Unsweetened Cranberries, Dates, etc)"
+		]
+	},
+	{
+		"name": "Greek Easter Cookies",
+		"url": "https://based.cooking/greek-easter-cookies/",
+		"ingredients": [
+			"1 lb of unsalted butter",
+			"3 cups of sugar",
+			"10 eggs",
+			"6 tsps baking powder",
+			"2 tsps baker’s ammonium",
+			"1 pinch of baking soda",
+			"2 tsp powder vanilla",
+			"Zest of 3 oranges",
+			"Zest of 2 lemons",
+			"1/2 cup orange juice",
+			"1 cup warmed milk",
+			"1 egg yolk whisked to brush cookies",
+			"Enough flour to make a soft pliable dough (about 9 cups or a bit more)"
+		]
+	},
+	{
+		"name": "Greek Salad",
+		"url": "https://based.cooking/greek-salad/",
+		"ingredients": [
+			"2 cup assorted Lettuce, chopped or torn",
+			"4 whole Tomatoes, wedged or sliced",
+			"1 whole Cucumber, seeded and sliced",
+			"1 Bell Pepper, seeded and sliced",
+			"1 small Onion, sliced",
+			"1/2 cup pitted Black Olives (preferably brine-cured), coarsely chopped",
+			"3/5 cup Feta Cheese, crumbled",
+			"6 Tbsp Olive Oil",
+			"1 tsp Red Wine Vinegar",
+			"1/2 tsp Fresh Garlic, chopped",
+			"1/2 tsp Oregano",
+			"1/2 tsp dill weed",
+			"1/4 cup Parsley, chopped",
+			"Salt and freshly ground Black Pepper",
+			"2 Tbsp Lemon juice, fresh"
+		]
+	},
+	{
+		"name": "Greek Yogurt",
+		"url": "https://based.cooking/greek-yogurt/",
+		"ingredients": [
+			"2 thermos, ½l capacity each",
+			"thermometer",
+			"1 cheesecloth ",
+			"1l milk",
+			"100ml yogurt"
+		]
+	},
+	{
+		"name": "Grilled Mackerel with Miso Soup and Squash",
+		"url": "https://based.cooking/grilled-mackerel-with-miso-soup-and-squash/",
+		"ingredients": [
+			"2 Norwegian Mackerel Fillets",
+			"1 tbsp Sake",
+			"2 tbsp Miso paste",
+			"1/2 Onion",
+			"1 Summer Squash",
+			"1 tbsp butter",
+			"1 cup Jasmine Rice (optional)",
+			"Soy Sauce (optional)"
+		]
+	},
+	{
+		"name": "Grostoli ",
+		"url": "https://based.cooking/grostoli/",
+		"ingredients": [
+			"A cup of sugar",
+			"800g of flour",
+			"A tablespoon of baking powder",
+			"A pinch of salt",
+			"4 eggs",
+			"3 tablespoons of lard or butter.",
+			"4 tablespoons of a 40% a.b.v. spirit. Cachaça is the main one, Rum or Grappa will do. ",
+			"A cup of milk."
+		]
+	},
+	{
+		"name": "Fresh Guacamole",
+		"url": "https://based.cooking/guacamole/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Shrimp and Sausage Gumbo",
+		"url": "https://based.cooking/gumbo-shrimp-and-sausage/",
+		"ingredients": [
+			"2-3 lbs Shrimp",
+			"2 lbs Andouille Sausage",
+			"2 (32 oz) Chicken Broth",
+			"1 cup olive oil",
+			"1 cup All Purpose Flour",
+			"1 cup finely chopped Yellow Onion",
+			"1 cup finely chopped Green Pepper",
+			"1 cup finely chopped Celery",
+			"2 tbsp minced Garlic",
+			"1 tbsp Worcestershire Sauce",
+			"1 tbsp Cajun or Creole Seasoning (Creole Kick)",
+			"1 12 oz. bottle of Beer",
+			"1 tsp dried Thyme",
+			"1 tsp dried Parsley",
+			"3 - 5 Bay Leafs",
+			"1/2 cup Green Onions",
+			"1-2 cups White Rice",
+			"(Optional) 1 Jalapeño Pepper",
+			"(Optional) Instead of chicken broth, you can use your own shrimp stock"
+		]
+	},
+	{
+		"name": "Gypsy Soup",
+		"url": "https://based.cooking/gypsy-soup/",
+		"ingredients": [
+			"3 Tbsp Olive Oil",
+			"2 cup Chopped Onion",
+			"2 cloves Chopped Garlic",
+			"2 cup Sweet Potatoes, chopped and peeled",
+			"1/2 cup Chopped Celery",
+			"1 cup Chopped Fresh Tomatoes",
+			"3/4 cup Chopped Sweet Peppers",
+			"1-1/2 cup Cooked Chickpeas",
+			"3 cup Stock or Water",
+			"2 tsp Paprika",
+			"1 tsp Turmeric",
+			"1 tsp Basil",
+			"1 tsp Salt",
+			"dash Cinnamon",
+			"dash Cayenne",
+			"1 Bay Leaf",
+			"1 Tbsp Tamari Soy Sauce"
+		]
+	},
+	{
+		"name": "Hakka-Style Meatballs",
+		"url": "https://based.cooking/hakka-style-meatballs/",
+		"ingredients": [
+			"1/2 lb Ground Beef",
+			"1/4 cup Panko Breadcrumbs",
+			"2 Tbsp Soy Sauce, divided",
+			"4 tsp Chili Garlic Sauce",
+			"1/2 oz Ginger, minced",
+			"2 medium Green Bell Peppers",
+			"1 small Onion, chopped",
+			"3/4 cup Basmati Rice",
+			"2 oz Green Peas",
+			"1/2 cup Cilantro, loosely packed",
+			"1 Tbsp Moroccan Spice Blend, divided",
+			"4 Tbsp Sweet Chili Sauce",
+			"Oil"
+		]
+	},
+	{
+		"name": "Ham and Lentil Soup",
+		"url": "https://based.cooking/ham-and-lentil-soup/",
+		"ingredients": [
+			"2 cup Lentils",
+			"1/2 lb Ham, diced",
+			"1 Onion, chopped",
+			"1 Bay leaf",
+			"2 ribs Celery, chopped",
+			"1 clove Garlic, minced"
+		]
+	},
+	{
+		"name": "Hamburger Patties",
+		"url": "https://based.cooking/hamburger-patties-all-beef/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Hamburger Patties",
+		"url": "https://based.cooking/hamburger-patties/",
+		"ingredients": [
+			"  1 cup soft bread crumb",
+			"  1/2 cup milk",
+			"  1 1/2 pound ground beef",
+			"  1 medium onion, chopped",
+			"  1/2 teaspoon salt",
+			"  dash pepper",
+			"  1/2 teaspoon cayenne",
+			"  1 teaspoon Worcestershire sauce",
+			"  2 tablespoons of fat or salad oil"
+		]
+	},
+	{
+		"name": "Hangover Eggs",
+		"url": "https://based.cooking/hangover-eggs/",
+		"ingredients": [
+			"Tony Chachere's",
+			"Green onions",
+			"Olive oil",
+			"Loaf of French Bread",
+			"Eggs",
+			"Tabasco",
+			"Beer"
+		]
+	},
+	{
+		"name": "Hearty Breakfast Oatmeal ",
+		"url": "https://based.cooking/hearty-breakfast-oatmeal/",
+		"ingredients": [
+			"1/2 cup Large Flake Oats (no partially cooked quick-oats allowed!)",
+			"Almonds",
+			"Pecans",
+			"1 Tbsp Roasted Flax Seed",
+			"1 Tbsp Hemp Hearts",
+			"Cranberries (adjust amount to preference)",
+			"1/2 Banana (mashed)",
+			"1 cup Milk (3.25% if possible)",
+			"Cinnamon (adjust amount to preference)",
+			"1 Egg",
+			"ON Vanilla Ice Cream Protein Powder (optional)"
+		]
+	},
+	{
+		"name": "Hellfire Steak",
+		"url": "https://based.cooking/hellfire-steak/",
+		"ingredients": [
+			"Steak",
+			"Kosher Salt",
+			"Mustard Powder",
+			"Tabasco Sauce"
+		]
+	},
+	{
+		"name": "Hoisin Pork Belly",
+		"url": "https://based.cooking/hoisin-pork-belly/",
+		"ingredients": [
+			"400g high fat pork belly (no skin)",
+			"large thumb of ginger",
+			"4 cloves of garlic",
+			"1 scotch bonnet chili",
+			"2 tbsp ketchup",
+			"2 tbsp hoisin sauce",
+			"2 tbsp honey",
+			"2 tsp sesame oil",
+			"1 spring onion"
+		]
+	},
+	{
+		"name": "Honey Garlic Chicken with Broccoli and Brown Rice",
+		"url": "https://based.cooking/honey-garlic-chicken/",
+		"ingredients": [
+			"1/2 cup ( 100g ) brown rice",
+			"1/2 cup ( 70g ) frozen peas",
+			"1 head broccoli (you can use really any amount of broccoli)",
+			"2 chicken breasts",
+			"1 tbsp honey",
+			"1 tbsp low-sodium soy sauce",
+			"1 tbsp minced garlic"
+		]
+	},
+	{
+		"name": "Honey Sriracha Chicken Thighs",
+		"url": "https://based.cooking/honey-sriracha-chicken-thighs/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Hummus",
+		"url": "https://based.cooking/hummus/",
+		"ingredients": [
+			"One can of garbanzo beans (chickpeas)",
+			"1/2 teaspoon baking soda",
+			"1/2 cup of tahini (also known as tehina)",
+			"1/4 cup (or more, to taste) of lemon juice, fresh preferred - this is about 1 1/2 to 2 lemons' worth",
+			"1 (or 2) clove(s) of garlic, roughly chopped (fresh or frozen pre-chopped is fine, but not dry)",
+			"1/4 teaspoon cumin, ground (if you have whole, toast in a dry pan until fragrant before grinding)",
+			"1/4 teaspoon za'atar (optional, if you can find it)",
+			"1 Tablespoon of olive oil, plus more for serving",
+			"Fresh parsley (optional for serving)"
+		]
+	},
+	{
+		"name": "🍲 Based Cooking 🍳",
+		"url": "https://based.cooking/_index/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Instant Tom Yam Kung noodle soup",
+		"url": "https://based.cooking/instant-tom-yam-kung-noodle-soup/",
+		"ingredients": [
+			"2 packages of vegetable- or tom yam-quick noodles",
+			"1 can coconut milk",
+			"10 small or 5 big mushrooms",
+			"2 eggs",
+			"A few salad leaves (or practically any veggie you have in the fridge)",
+			"1 lime",
+			"Coriander"
+		]
+	},
+	{
+		"name": "Irish Coffee",
+		"url": "https://based.cooking/irish-coffee/",
+		"ingredients": [
+			"1 (1.5 fluid ounce) jigger Irish cream liqueur",
+			"1 (1.5 fluid ounce) jigger Irish whiskey",
+			"1 cup hot brewed coffee",
+			"1 tablespoon whipped cream",
+			"1 dash ground nutmeg"
+		]
+	},
+	{
+		"name": "Irish Potato Casserole",
+		"url": "https://based.cooking/irish-potato-casserole/",
+		"ingredients": [
+			"2 cups Potatoes, peeled and shredded",
+			"1/2 cup Butter, melted",
+			"2 whole Eggs, beaten",
+			"1 tsp Onion, minced",
+			"1 tsp Salt",
+			"1/4 tsp Paprika",
+			"1/2 cup Milk",
+			"1/2 cup Sharp Cheddar Cheese, shredded"
+		]
+	},
+	{
+		"name": "Italian Bread",
+		"url": "https://based.cooking/italian-bread/",
+		"ingredients": [
+			"600g or 5 cups bread flour (or all-purpose if not available)",
+			"1 packet (appr. 2 1/4 tsp or 7g) active dry yeast",
+			"olive oil for greasing"
+		]
+	},
+	{
+		"name": "Italian Mulled Wine",
+		"url": "https://based.cooking/italian-mulled-wine/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Japanese Noodle Soup",
+		"url": "https://based.cooking/japanese-noodle-soup/",
+		"ingredients": [
+			"750ml Chicken stock",
+			"4 Pork chops OR 4 Chicken Breasts",
+			"Set honey",
+			"3 Garlic cloves",
+			"Soy sauce",
+			"Worcestershire sauce",
+			"Ginger, sliced",
+			"Chinese 5 Spice",
+			"1 Red Chilli, sliced and deseeded (Optional, but recommended)",
+			"375g Ramen Noodles (Medium Egg Noodles work well too)",
+			"100g Spinach (Optional)",
+			"4 Tbsp Sweetcorn (Optional)",
+			"Sesame seeds (Optional)",
+			"4 Boiled Eggs (Optional)",
+			"1 Sheet of Dried Nori (Optional)",
+			"Spring Onion, chopped (Optional)"
+		]
+	},
+	{
+		"name": "Kalderetang Manok",
+		"url": "https://based.cooking/kalderetang-manok/",
+		"ingredients": [
+			"1 lb of chicken",
+			"2 chopped potatoes",
+			"2 chopped carrots",
+			"1 chopped onion",
+			"2 chopped cloves of garlic",
+			"1 chopped tomato (optional)",
+			"3 cups of water",
+			"Tomato sauce",
+			"Chopped bell pepper",
+			"Dried peas",
+			"Liver spread",
+			"Fish sauce",
+			"Grated cheese"
+		]
+	},
+	{
+		"name": "Ketchup",
+		"url": "https://based.cooking/ketchup/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "'Kettle Chips'",
+		"url": "https://based.cooking/kettle-chips/",
+		"ingredients": [
+			"1 Russet Potato, or other potato with high starch and low moisture. The amount of starch effects the crunchiness of the chip.",
+			"Peanut Oil for frying (at least 1 to 2 inches in the pan)",
+			"Salt or seasoning of your choice"
+		]
+	},
+	{
+		"name": "Kettle Corn",
+		"url": "https://based.cooking/kettlecorn/",
+		"ingredients": [
+			"2 tablespoons vegetable oil, or oil of your choice",
+			"1/4 cup of popcorn kernels",
+			"2 tablespoons of sugar (brown sugar works too)",
+			"salt to taste"
+		]
+	},
+	{
+		"name": "'Kombucha'",
+		"url": "https://based.cooking/kombucha/",
+		"ingredients": [
+			"5l (1 gallon) jar",
+			"3-5 tbsp black (or green) tea",
+			"2 cups sugar",
+			"kombucha scoby",
+			"optional additional teas",
+			"optional juices, fruits, spices",
+			"patience ;)"
+		]
+	},
+	{
+		"name": "Korv Stroganoff",
+		"url": "https://based.cooking/korv-stroganoff/",
+		"ingredients": [
+			"1/2 kg Swedish [falukorv](https://en.wikipedia.org/wiki/Falukorv)",
+			"1 yellow onion",
+			"1 tbsp olive oil",
+			"4 tbsp tomato purée",
+			"2 1/2 dl cream",
+			"1 dl milk",
+			"1 tbsp soy sauce",
+			"1 tbsp Dijon mustard"
+		]
+	},
+	{
+		"name": "Kvass",
+		"url": "https://based.cooking/kvass/",
+		"ingredients": [
+			"100 g of raisins",
+			"100 g of sugar",
+			"3 slices of black bread (e.g. pumpernickel bread, rye bread)",
+			"1-2 lemons",
+			"1 pkg (7 g) of active dry yeast",
+			"*Optional:*"
+		]
+	},
+	{
+		"name": "Lamb Biriyani",
+		"url": "https://based.cooking/lamb-biriyani/",
+		"ingredients": [
+			"4-5 pods of Cardamom",
+			"2-3 Bay leaves",
+			"3-4 Cinnamon Sticks",
+			"8 Cloves",
+			"400gm Basmati Rice",
+			"600gm Mutton / Lamb (Boneless)",
+			"2 Onions (Preferably Red)",
+			"2 Tomatoes",
+			"1 Green chilli (Optional)",
+			"10 Garlic pearls",
+			"5cm piece of Ginger",
+			"1/2 Tbsp of [Garam Masala](/garam-masala)",
+			"1 Tbsp of Chilli Powder or Hungarian Smoked Paprika",
+			"Juice of 1/2 Lemon or 1 tsp of Vinegar",
+			"Dash of Tumeric Powder",
+			"Dash of Curry Powder",
+			"1 Sprig of Mint / Coriander (Garnish)"
+		]
+	},
+	{
+		"name": "Lasagna",
+		"url": "https://based.cooking/lasagna/",
+		"ingredients": [
+			"Parmesan cheese",
+			"Emental cheese (optional)",
+			"Dry mozzarella cheese",
+			"[Fresh Bolognese sauce](/bolognese-sauce) or about 1 litre worth of store-bought sauce",
+			"[Béchamel sauce](/classic-bechamel-sauce) or [ricotta lasagna filling](/ricotta-lasagna-filling)",
+			"Lasagna pasta sheets"
+		]
+	},
+	{
+		"name": "Lavacake",
+		"url": "https://based.cooking/lavacake/",
+		"ingredients": [
+			"1 Egg",
+			"25g Flour",
+			"25g Butter",
+			"75g Chocolate"
+		]
+	},
+	{
+		"name": "Lebanese Lentil Soup",
+		"url": "https://based.cooking/lebanese-lentil-soup/",
+		"ingredients": [
+			"3 cups red lentils",
+			"12 cups water",
+			"1 large red onion, diced",
+			"2 small Yukon gold potatoes, diced",
+			"1 medium zucchini, diced",
+			"4 cups Swiss chard, chopped",
+			"1 bunch of cilantro, chopped",
+			"¼ cup of lemon juice, more to taste",
+			"1 teaspoon cumin"
+		]
+	},
+	{
+		"name": "Lemon and oregano chicken traybake",
+		"url": "https://based.cooking/lemon-and-oregano-chicken-traybake/",
+		"ingredients": [
+			"8 chicken thighs (skin on)",
+			"500g new potato",
+			"100g bacon lardon",
+			"8 shallots",
+			"5 oregano sprigs / heavy sprinkle of oregano leaves",
+			"2 tbsp olive oil",
+			"2 lemons",
+			"200ml chicken stock",
+			"100ml white wine"
+		]
+	},
+	{
+		"name": "Lemon juice salad dressing",
+		"url": "https://based.cooking/lemon-juice-salad-dressing/",
+		"ingredients": [
+			"Lemon juice from half a lemon",
+			"Tablespoon of olive oil",
+			"Clove of garlic"
+		]
+	},
+	{
+		"name": "Sopa de Lentejas",
+		"url": "https://based.cooking/lentejas/",
+		"ingredients": [
+			"1 carrot, chopped",
+			"1 green bell pepper, chopped",
+			"4 garlic cloves, minced",
+			"1 large onion, chopped",
+			"1 cup dry brown lentils, soaked overnight and drained",
+			"2 plum tomatoes, chopped",
+			"2 cups water, or as needed",
+			"1 bay leaf",
+			"1 tbsp extra-virgin olive oil",
+			"1/2 tsp of paprika",
+			"1/4 spicy chorizo (optional)"
+		]
+	},
+	{
+		"name": "Lenten Chili",
+		"url": "https://based.cooking/lenten-chili/",
+		"ingredients": [
+			"1 large onion, chopped",
+			"3 cloves garlic, minced",
+			"4 15oz cans of kidney beans (or 6 cups cooked beans)",
+			"1 29oz large can tomato sauce (or 4 cups fresh tomato sauce)",
+			"1 15oz can diced tomatoes (or 1 large diced tomato with skin removed)",
+			"1/2 can of sweet corn",
+			"1 cup cooked white or brown rice",
+			"1 tsp cumin",
+			"1 tsp smoked paprika",
+			"1 tsp garlic powder",
+			"1 tsp onion powder",
+			"1 tbsp chili powder",
+			"1 tbsp crushed red pepper",
+			"2-3 tbsp olive oil"
+		]
+	},
+	{
+		"name": "Lenten Lentil Curry",
+		"url": "https://based.cooking/lenten-lentil-curry/",
+		"ingredients": [
+			"200 g (7 oz) green lentils",
+			"50 g (1¾ oz) vermicelli",
+			"1 tsp curry powder",
+			"½ tsp paprika powder",
+			"½ tsp cinnamon powder",
+			"½ tsp ground sumac"
+		]
+	},
+	{
+		"name": "Limoncello",
+		"url": "https://based.cooking/limoncello/",
+		"ingredients": [
+			"5-7 organic lemons (regular lemons are covered in wax)",
+			"300ml 95% ABV grain alcohol",
+			"700ml water",
+			"500ml sugar"
+		]
+	},
+	{
+		"name": "Liver Pate",
+		"url": "https://based.cooking/liverpate/",
+		"ingredients": [
+			"1lbs./500g liver (chicken, beef, poultry etc.)",
+			"1 Cup Carrots",
+			"1 Cup Onions",
+			"2 Teaspoon Nutmeg",
+			"2 Tablespoon Butter or Ghee"
+		]
+	},
+	{
+		"name": "Loaded Mexican Rice",
+		"url": "https://based.cooking/loaded-mexican-rice/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Lobster bisque",
+		"url": "https://based.cooking/lobster-bisque/",
+		"ingredients": [
+			"1 live lobster that weighs ~750 grams",
+			"2 onions",
+			"2 carrots",
+			"1 shallot",
+			"2 garlic cloves",
+			"cognac",
+			"3 tbsp concentrated tomato puree",
+			"4 tomatoes",
+			"3 tbsp flour",
+			"1 glass dry white wine",
+			"2 litres fish stock",
+			"1 bayleaf",
+			"2 twigs of thyme",
+			"fresh parsley",
+			"heavy cream",
+			"olive oil",
+			"2 tbsp butter"
+		]
+	},
+	{
+		"name": "Mapo Tofu (麻婆豆腐)",
+		"url": "https://based.cooking/mapo-tofu/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Maque Choux",
+		"url": "https://based.cooking/maque-choux/",
+		"ingredients": [
+			"A little sugar",
+			"A good bit of grease (about a handful)",
+			"Handful of chopped onion",
+			"Handful of chopped bell pepper",
+			"Eight ears of corn",
+			"Handful of chopped tomatoes",
+			"Salt & Pepper (to taste)"
+		]
+	},
+	{
+		"name": "Marinated pork steaks ",
+		"url": "https://based.cooking/marinated-pork-steaks/",
+		"ingredients": [
+			"6 tablespoons olive oil",
+			"¼ cup soy sauce",
+			"¼ cup of honey",
+			"Juice from 1 lime",
+			"3 peeled cloves garlic",
+			"4 ¼ inch thick boneless pork shoulder steaks"
+		]
+	},
+	{
+		"name": "Matcha Cookies",
+		"url": "https://based.cooking/matcha-cookies/",
+		"ingredients": [
+			"115g Unsalted butter",
+			"60g Caster sugar",
+			"115g Brown sugar",
+			"55g Egg",
+			"153g Plain flour",
+			"12g Matcha powder",
+			"2g Baking soda",
+			"1g Salt",
+			"3g Vanilla extract",
+			"70g White coverture chocolate",
+			"45g Macadamia nut"
+		]
+	},
+	{
+		"name": "Mayonnaise or aioli",
+		"url": "https://based.cooking/mayonnaise-or-aioli/",
+		"ingredients": [
+			"1 whole egg or 2 egg yolks, preferably at room temperature",
+			"2.5 dl/ 1 cup neutral oil",
+			"1-2 tbsp vinegar or lemon juice",
+			"1 tbsp pickle juice (optional)",
+			"2-4 cloves of garlic for aioli, don't include for mayonnaise",
+			"1 tsp dijon mustard (optional)"
+		]
+	},
+	{
+		"name": "Mazurek",
+		"url": "https://based.cooking/mazurek/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Meatloaf",
+		"url": "https://based.cooking/meatloaf/",
+		"ingredients": [
+			"4 1/2 pounds Ground beef",
+			"1 Onion",
+			"2 Slices of bread",
+			"4 Eggs",
+			"1/4 Cup of milk",
+			"Garlic salt",
+			"Onion powder",
+			"Mustard",
+			"Sugar free ketchup",
+			"3 Cubes of brown sugar",
+			"1 Can of Campbell's tomato soup",
+			"Franks RedHot sauce (Optional)"
+		]
+	},
+	{
+		"name": "Medieval Beef Soup",
+		"url": "https://based.cooking/medieval-beef-soup/",
+		"ingredients": [
+			"One beef roast",
+			"Around three to four large turnips with their greens attached",
+			"Two cups of chicken stock",
+			"1/10 grams of Saffron",
+			"1/4 a stick of butter",
+			"A slow cooker",
+			"A bowl of warm water."
+		]
+	},
+	{
+		"name": "Merchant's Buckwheat",
+		"url": "https://based.cooking/merchants-buckwheat/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Mexican Meat Loaf",
+		"url": "https://based.cooking/mexican-meat-loaf/",
+		"ingredients": [
+			"1 lb Lean Ground Beef",
+			"1 cup Black Beans (canned), rinsed and drained",
+			"1 cup Salsa, divided",
+			"1/2 cup Corn (frozen)",
+			"1/2 cup Bread Crumbs",
+			"Cooking Spray"
+		]
+	},
+	{
+		"name": "Miso Ginger Pork",
+		"url": "https://based.cooking/miso-ginger-pork/",
+		"ingredients": [
+			"ground pork",
+			"sushi rice",
+			"green onion",
+			"fresh ginger",
+			"miso paste",
+			"pickled daikon",
+			"zucchini or bok choy",
+			"sesame oil (or olive oil)",
+			"broth (optional)"
+		]
+	},
+	{
+		"name": "Miso-soup",
+		"url": "https://based.cooking/miso-soup/",
+		"ingredients": [
+			"dashi stock",
+			"miso paste",
+			"tofu(optional)",
+			"seaweed(optional)",
+			"green onion(optional)"
+		]
+	},
+	{
+		"name": "Mushroom risotto",
+		"url": "https://based.cooking/mushroom-risotto/",
+		"ingredients": [
+			"Olive oil",
+			"1 shallot",
+			"4 cloves of garlic",
+			"300g button or crimini mushrooms",
+			"400g risotto rice (Arborio, Carnaroli or Vialone Nano)",
+			"1/2 cup white wine (optional)",
+			"Mushroom or chicken stock",
+			"Butter",
+			"Grated Pecorino or Parmesan cheese"
+		]
+	},
+	{
+		"name": "Mushroom Stroganov",
+		"url": "https://based.cooking/mushroom-stragonov/",
+		"ingredients": [
+			"8 oz uncooked pasta (spaghetti or any other long noodle will work. Stroganov can also be served over rice.)",
+			"12 oz mushrooms (I reccommend shitake, but white, portabello, or maitake will also work.)",
+			"2 cloves of garlic, minced",
+			"1 small yellow onion, minced",
+			"2 Tbsp butter",
+			"1 Tbsp general purpose flour",
+			"1 Cup vegetable broth",
+			"1 Tsp dijon mustard",
+			"1 Tsp Smoked paprika",
+			"4 Tbsp creme fraiche (can be made by mixing equal parts heavy and sour cream)",
+			"2 Tbsp parsely"
+		]
+	},
+	{
+		"name": "Naan Bread",
+		"url": "https://based.cooking/naan-bread/",
+		"ingredients": [
+			"All-purpose flour 3 cups",
+			"Active dry yeast 1 tbsp",
+			"Sugar 2 tbsp",
+			"Warm Milk 1 cup",
+			"Butter melted 2 tbsp",
+			"Oil - little to grease"
+		]
+	},
+	{
+		"name": "Nashville Chicken Sandwich",
+		"url": "https://based.cooking/nashville-chicken/",
+		"ingredients": [
+			"2 Cups Buttermilk",
+			"1/3 Cup Hot sauce",
+			"2 1/2 Cups All-purpose flour",
+			"3 tbsp Cornstarch",
+			"3 tbsp Seasoned salt",
+			"1 tbsp Paprika",
+			"2 tsp Cayenne pepper",
+			"2 tsp Black pepper",
+			"1 tbsp Garlic powder",
+			"1 tbsp Onion powder",
+			"2 tsp Dry mustard powder",
+			"2 tbsp Nashville Hot Chicken seasoning",
+			"2 tbsp Adobo honey seasoning",
+			"2 tbsp Dark brown sugar",
+			"1 tsp Chili powder",
+			"1 tsp Garlic powder",
+			"1 tsp Smoked paprika",
+			"1 1/2 Cups Cooking oil Used to fry the chicken",
+			"3 tbsp Mayo",
+			"1 tbsp Ketchup",
+			"2 tbsp Sweet relish",
+			"1 tbsp Hot sauce"
+		]
+	},
+	{
+		"name": "Newfoundland Cod Chowder",
+		"url": "https://based.cooking/newfoundland-cod-chowder/",
+		"ingredients": [
+			"4 Slices Bacon",
+			"2 Onions, sliced",
+			"1 tsp Savoury",
+			"6 Potatoes, peeled and cubed",
+			"3 Carrots, sliced",
+			"1 1/2 lbs Cod Fillets",
+			"1 can Evaporated Milk",
+			"2 Tbsp Fresh Parsley or Chives, chopped"
+		]
+	},
+	{
+		"name": "No-knead Bread",
+		"url": "https://based.cooking/no-knead-bread/",
+		"ingredients": [
+			"3 c flour",
+			"1 tsp salt",
+			"1/4 tsp instant yeast or 1.25/4 tsp active dry yeast",
+			"1 1/2 cups warm water",
+			"Oven-safe pan"
+		]
+	},
+	{
+		"name": "No-knead pizza dough",
+		"url": "https://based.cooking/no-knead-pizza-dough/",
+		"ingredients": [
+			"200g flour",
+			"2g instant yeast (dry)",
+			"5g salt",
+			"5g olive oil",
+			"140g luke warm water"
+		]
+	},
+	{
+		"name": "Oatmeal Pancakes",
+		"url": "https://based.cooking/oatmeal-pancakes/",
+		"ingredients": [
+			"2 eggs",
+			"40g sugar (3 tbsp)",
+			"20g honey (1 tbsp)",
+			"60ml milk (4 tbsp) (you can use water instead)",
+			"120g oat flour (1 cup)",
+			"1 tsp baking powder (or baking soda + some acid to activate it)",
+			"Raspberry jam (optional)"
+		]
+	},
+	{
+		"name": "Oats",
+		"url": "https://based.cooking/oats/",
+		"ingredients": [
+			"oats",
+			"water",
+			"pinch of salt",
+			"chopped banana",
+			"any berries",
+			"cinnamon",
+			"peanut butter"
+		]
+	},
+	{
+		"name": "Oaty Pancakes",
+		"url": "https://based.cooking/oaty-pancakes/",
+		"ingredients": [
+			"3⁄4 cup milk",
+			"3⁄4 rolled oats",
+			"1 egg",
+			"1⁄2 teaspoon salt",
+			"2-3 tablespoon sugar",
+			"1⁄2 cup flour",
+			"2 teaspoon baking powder",
+			"2 teaspoon baking soda",
+			"25g butter (melted)"
+		]
+	},
+	{
+		"name": "Okonomiyaki",
+		"url": "https://based.cooking/okonomiyaki/",
+		"ingredients": [
+			"125g flour",
+			"1 egg",
+			"125ml water",
+			"Thinly sliced meat, any kind can do, sliced pork, beef, even bacon",
+			"Dashi powder or any desired seasonings",
+			"2-4 leaves cabbage",
+			"Pinch salt to taste",
+			"The following options are traditional but can be substituted with any desired toppings"
+		]
+	},
+	{
+		"name": "Russian Okroshka",
+		"url": "https://based.cooking/okroshka/",
+		"ingredients": [
+			"2-3 medium potatoes",
+			"4 eggs",
+			"2 long or 4 short cucumbers",
+			"3 strands of spring onions",
+			"10-12 radishes",
+			"bunch of dill",
+			"2 Kefir or 1 kvass",
+			"500g boiled sausage or boiled chicken meat",
+			"1 mineral water (optional)"
+		]
+	},
+	{
+		"name": "Omelet",
+		"url": "https://based.cooking/omelet/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "One-Pot Chicken Tetrazzini",
+		"url": "https://based.cooking/one-pot-chicken-tetrazzini/",
+		"ingredients": [
+			"3 Tbsp Butter",
+			"8 oz Mushrooms, sliced",
+			"1 small Red Pepper, chopped",
+			"1 small Onion, finely chopped",
+			"1 clove Garlic, minced",
+			"3 Tbsp All-Purpose Flour",
+			"4 cups Milk",
+			"2 Tbsp Worcestershire Sauce",
+			"8 oz Extra Broad Egg Noodles",
+			"5 oz Boursin Garlic and Fine Herbs",
+			"3 cup Deli Chicken, cooked and cut into bite-size pieces",
+			"1/2 cup Frozen Peas",
+			"1/2 cup Fresh Parsley, chopped",
+			"Small Fresh Basil Leaves (optional)",
+			"Parmesan, grated"
+		]
+	},
+	{
+		"name": "Onion Raitha (Indian Tzatziki)",
+		"url": "https://based.cooking/onion-raitha/",
+		"ingredients": [
+			"500 gm of Greek Yogurt",
+			"One Red onion",
+			"50 gm of Cucumber",
+			"Sprigs of Mint",
+			"Dash of Honey",
+			"Hint of Chilli Powder (Spicy option)/ Hint of sugar (Sweet option)"
+		]
+	},
+	{
+		"name": "Orange Glorious",
+		"url": "https://based.cooking/orange-glorious/",
+		"ingredients": [
+			"1 (6 ounce) can frozen orange juice concentrate",
+			"1 cup milk",
+			"1 cup water",
+			"1/2 cup white sugar",
+			"1 teaspoon vanilla extract",
+			"12 cubes ice"
+		]
+	},
+	{
+		"name": "Orange jam",
+		"url": "https://based.cooking/orange-jam/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Panang-Style Beef Curry",
+		"url": "https://based.cooking/panang-style-beef-curry/",
+		"ingredients": [
+			"1/2 lb Ground Beef",
+			"1 can (400mL) Coconut Milk",
+			"1 Red Chili Pepper",
+			"1/2 cup Red Curry Paste",
+			"4 tsp Peanut Butter",
+			"3/4 cup Jasmine Rice",
+			"2 Tbsp Cilantro",
+			"1 Sweet Bell Pepper",
+			"1/2 Onion (2 oz), chopped",
+			"1 Tbsp Garlic Puree",
+			"1 oz Peanuts, chopped",
+			"1/2 Tbsp Soy Sauce",
+			"2 Tbsp Mild Curry Paste"
+		]
+	},
+	{
+		"name": "Pancake",
+		"url": "https://based.cooking/pancake/",
+		"ingredients": [
+			"200g wheat flour or 100g glutenfree flour",
+			"200 ml milk",
+			"2 eggs",
+			"2 tsp sugar",
+			"1 tsp baking soda",
+			"a little bit of salt"
+		]
+	},
+	{
+		"name": "Paneer Tikka Masala",
+		"url": "https://based.cooking/paneer-tikka-masala/",
+		"ingredients": [
+			"250g cubes paneer",
+			"1 onion",
+			"1 capsicum",
+			"200ml tomato puree",
+			"1 tsp red chilli powder",
+			"1 tsp turmeric powder",
+			"1 tsp coriander powder",
+			"1/2 tsp [garam masala](/garam-masala) powder",
+			"100ml thick yogurt",
+			"1 tsp fenugreek powder",
+			"dry fenugreek leaves",
+			"cardamom",
+			"cumin seeds",
+			"shaved ginger",
+			"20ml garlic paste",
+			"1 bowl corn"
+		]
+	},
+	{
+		"name": "Pan pizza",
+		"url": "https://based.cooking/pan-pizza/",
+		"ingredients": [
+			"[no-knead pizza dough](/no-knead-pizza-dough)",
+			"[pizza sauce](/pizza-sauce)",
+			"cheese",
+			"olive oil",
+			"pepperoni (optional)",
+			"mushrooms (optional)",
+			"pineapple (optional)",
+			"...really whatever you like (optional)"
+		]
+	},
+	{
+		"name": "Pan-seared Chicken Fillet",
+		"url": "https://based.cooking/pan-seared-chicken/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Parmesan potatoes",
+		"url": "https://based.cooking/parmesan-potatoes/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Party Mimosa",
+		"url": "https://based.cooking/party-mimosa/",
+		"ingredients": [
+			"1 (12 ounce) can apricot-mango nectar",
+			"1 (12 ounce) can pineapple juice",
+			"1 (6 ounce) can frozen orange juice concentrate, thawed and undiluted",
+			"1 (750 milliliter) bottle cold champagne",
+			"3/4 cup cold water"
+		]
+	},
+	{
+		"name": "Pasta Alla Norma",
+		"url": "https://based.cooking/pasta-alla-norma/",
+		"ingredients": [
+			"3 aubergines (900g)",
+			"300g spaghetti",
+			"100ml olive oil",
+			"5 garlic cloves, minced",
+			"1 chilli (or 1 tsp of dried chilli flakes)",
+			"2 x 400g tinned chopped tomatoes",
+			"1 teaspoon dried oregano",
+			"1 teaspoon caster sugar",
+			"Fresh basil"
+		]
+	},
+	{
+		"name": "Pasta Arrabbiata",
+		"url": "https://based.cooking/pasta-arrabbiata/",
+		"ingredients": [
+			"Pasta",
+			"Olive oil",
+			"Chilli flakes or diced chilli peppers",
+			"Crushed garlic cloves",
+			"Crushed tomatoes (about 800 gramms for 500 gramms of pasta)",
+			"Chopped parsley",
+			"Grated Pecorino Romano or Parmigiano Reggiano (optional, but highly recommended)"
+		]
+	},
+	{
+		"name": "Pasta (store bought)",
+		"url": "https://based.cooking/pasta/",
+		"ingredients": [
+			"pasta",
+			"basil (optional)",
+			"butter (optional)"
+		]
+	},
+	{
+		"name": "Pasta Navy Style",
+		"url": "https://based.cooking/pasta-navy-style/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Pasta sauce",
+		"url": "https://based.cooking/pasta-sauce/",
+		"ingredients": [
+			"a can of San Marzano tomatoes (or home-grown with some extra pulp)",
+			"onion or garlic",
+			"olive oil",
+			"oregano or basil (Dried or diced)"
+		]
+	},
+	{
+		"name": "Pastítsio",
+		"url": "https://based.cooking/pastitsio/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Pâté Chinois (Quebec Style Shepherd’s Pie)",
+		"url": "https://based.cooking/pate-chinois/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Peanut Butter",
+		"url": "https://based.cooking/peanut-butter/",
+		"ingredients": [
+			"1 lb. of raw pre-shelled peanuts"
+		]
+	},
+	{
+		"name": "Ray Peat's Carrot Salad",
+		"url": "https://based.cooking/peat-carrot-salad/",
+		"ingredients": [
+			"3 raw carrots, peeled in thick vertical strips and washed thoroughly.",
+			"2 tbsp virgin coconut oil",
+			"1 tbsp apple cider vinegar, unrefined",
+			"2 cloves raw garlic (optional)"
+		]
+	},
+	{
+		"name": "Pepper Sauce",
+		"url": "https://based.cooking/pepper-sauce/",
+		"ingredients": [
+			"1 tablespoon freshy ground rose pepper, green pepper and black pepper",
+			"1 teaspoon dijon mustard",
+			"1dl bouillon",
+			"2dl cream",
+			"Salt if needed"
+		]
+	},
+	{
+		"name": "Perfect Potato Salad",
+		"url": "https://based.cooking/perfect-potato-salad/",
+		"ingredients": [
+			"5 Potatoes, peeled and cut into bite-size chunks (about 2 lbs)",
+			"1 cup Plain Yogurt",
+			"1/2 cup Mayonnaise",
+			"1 Tbsp Prepared Horseradish",
+			"4 Radishes, thinly sliced",
+			"2 stalks Celery, diced",
+			"2 large Green Onions, thinly sliced",
+			"1/4 cup Fresh Parsley, chopped",
+			"1/4 cup Fresh Dill, chopped"
+		]
+	},
+	{
+		"name": "Pho Soup",
+		"url": "https://based.cooking/pho-soup/",
+		"ingredients": [
+			"Garlic (4-8 large cloves)",
+			"Spring Onions",
+			"Cardamom Seeds (10 or so)",
+			"Star Anise (4-5)",
+			"Ginger",
+			"Cinnamon Sticks (3-5 sticks)",
+			"Diced Beef (300g)",
+			"Beef Bones with marrow (3x)",
+			"Beef bouillon cubes (1-3)",
+			"Coriander (to taste)",
+			"1 Lime (to taste)",
+			"Fish/Oyster Sauce",
+			"Honey or Brown Sugar",
+			"Rice noodles"
+		]
+	},
+	{
+		"name": "Pickled Red Onions",
+		"url": "https://based.cooking/pickled-onions/",
+		"ingredients": [
+			"Red Onions",
+			"Vinegar",
+			"Water"
+		]
+	},
+	{
+		"name": "Pilaf",
+		"url": "https://based.cooking/pilaf/",
+		"ingredients": [
+			"150ml cooking oil",
+			"1kg long grain [rice](/rice)",
+			"1.5kg meat (lamb or any other kind of meat)",
+			"500g onions",
+			"500g carrots",
+			"2 tbsp salt",
+			"5 cloves of garlic",
+			"raisins, cardamom, paprika, coriander, cinnamon, cumin, turmeric (all optional)"
+		]
+	},
+	{
+		"name": "Pizza Dough",
+		"url": "https://based.cooking/pizza-dough/",
+		"ingredients": [
+			"400g flour (basic wheat flour)",
+			"200ml lukewarm water",
+			"1 pkg (7g) dry yeast",
+			"1 spoon olive oil",
+			"1 teaspoon salt",
+			"a teensy bit of sugar (to feed the yeast)"
+		]
+	},
+	{
+		"name": "Pizza sauce",
+		"url": "https://based.cooking/pizza-sauce/",
+		"ingredients": [
+			"400g canned tomatoes, preferebly skinned and whole",
+			"150g tomato puré",
+			"1 medium sized onion",
+			"olive oil",
+			"garlic",
+			"oregano",
+			"chili pepper (optional)"
+		]
+	},
+	{
+		"name": "Chilli con Carne",
+		"url": "https://based.cooking/pork-based-chili-con-carne/",
+		"ingredients": [
+			"Chorizo pork sausage",
+			"Pork mince",
+			"Bacon strips",
+			"Tomato sauce",
+			"Chilis",
+			"Kidney beans",
+			"Olive oil",
+			"Wine",
+			"Butter",
+			"(spices)"
+		]
+	},
+	{
+		"name": "Slow-cooked Pork Carnitas",
+		"url": "https://based.cooking/pork-carnitas/",
+		"ingredients": [
+			"2 ½ lbs. boneless pork shoulder",
+			"6 cloves of garlic, cut into slivers",
+			"1 ½ teaspoons cumin",
+			"½ teaspoon sazon",
+			"¼ teaspoon dry oregano",
+			"¾ cup low sodium chicken broth",
+			"2-3 chipotle peppers in adobo sauce",
+			"2 bay leaves",
+			"¼ teaspoon dry adobo seasoning"
+		]
+	},
+	{
+		"name": "Bitoque - Portuguese Steak with Beer Sauce",
+		"url": "https://based.cooking/portuguese-steak-with-beer-sauce/",
+		"ingredients": [
+			"sirloin steaks",
+			"garlic",
+			"olive oil q.b. (quanto basta – ‘enough’)",
+			"medium fat milk",
+			"beer",
+			"mustard",
+			"flour",
+			"eggs"
+		]
+	},
+	{
+		"name": "Potato and Eggplant (Aubergine) Curry",
+		"url": "https://based.cooking/potato-and-eggplant-curry/",
+		"ingredients": [
+			"1 large eggplant (aubergine)",
+			"2 medium potatoes",
+			"3 tbsp olive oil",
+			"2 onions (finely sliced)",
+			"2 garlic cloves (crushed)",
+			"2 tsp [garam masala](/garam-masala)",
+			"2 tsp turmeric",
+			"2 tsp ground coriander",
+			"400 ml can chopped tomatoes",
+			"400 ml can coconut milk",
+			"rice"
+		]
+	},
+	{
+		"name": "Potato Leek Soup",
+		"url": "https://based.cooking/potato-leek-soup/",
+		"ingredients": [
+			"3 tablespoons unsalted butter",
+			"2 large leeks",
+			"1 quart chicken or veggie stock",
+			"11 ounces peeled and sliced waxy potatoes",
+			"1 bay leaf",
+			"¾ cup heavy cream",
+			"white pepper",
+			"(optional) ½ teaspoon ground nutmeg",
+			"(optional) ½ tablespoon dill weed"
+		]
+	},
+	{
+		"name": "Potato Soup",
+		"url": "https://based.cooking/potato-soup/",
+		"ingredients": [
+			"Potatoes (yellow or brown), I don't count but 10+",
+			"Butter, a stick or two",
+			"Whole Milk",
+			"Garlic",
+			"Cheese (optional)",
+			"Onion Greens (optional)",
+			"Sour Cream (optional)"
+		]
+	},
+	{
+		"name": "Pozharskiye Cutlets",
+		"url": "https://based.cooking/pozharskiye-cutlets/",
+		"ingredients": [
+			"Chicken mince",
+			"Butter (originally, 1 part butter per 2 parts chicken; 1/4 works perfectly fine)",
+			"Eggs (~1 egg per 500g chicken, plus 3-5 for the breading)",
+			"A couple white bread loaves (store-bought breadcrumbs also suffice, but require more eggs)",
+			"Spices/salt (optional, recommended)",
+			"Non-lard based, non-chunky sauce (optional)",
+			"Onions (optional)"
+		]
+	},
+	{
+		"name": "Puff Pastry",
+		"url": "https://based.cooking/puff-pastry/",
+		"ingredients": [
+			"5 cups bread flour ",
+			"2 1/2 teaspoons salt",
+			"2 cups water",
+			"2 cups unsalted butter, softened"
+		]
+	},
+	{
+		"name": "Pulpo a la gallega",
+		"url": "https://based.cooking/pulpo-gallega/",
+		"ingredients": [
+			"1 octopus (1.7 to 2kg)",
+			"Potatoes",
+			"2 bay leaves",
+			"Sweet and spicy red pepper",
+			"Salt ",
+			"oil"
+		]
+	},
+	{
+		"name": "Quarkbällchen – Fried curd balls",
+		"url": "https://based.cooking/quarkbaellchen/",
+		"ingredients": [
+			"420ml quark (plain yoghurt can be used as a replacement)",
+			"2 eggs",
+			"6 or 7 tbsp of sugar",
+			"2 packets of vanilla sugar",
+			"400g flour (500g if using yoghurt)",
+			"2 packets of baking powder",
+			"1L sunflower oil for frying",
+			"(Optional) icing sugar",
+			"(Optional) Alcohol by eye so that they do not soak up so much oil"
+		]
+	},
+	{
+		"name": "Quesadilla",
+		"url": "https://based.cooking/quesadilla/",
+		"ingredients": [
+			"1-2 tortillas. Any brand works, but you can decide if you want the tortilla folded in half, or 2 tortillas together.",
+			"~4 small pinches of (Mozzarella, Oaxaca, or Montery Jack cheese).",
+			"A thin coating of oil on the pan. It will be more traditional, but also more unhealthy. (Optional)",
+			"Any ingredients you want. ie, veggies, chicken, mushrooms (cooked), or beans"
+		]
+	},
+	{
+		"name": "Quiche Lorraine - Lothringer Käsetorte",
+		"url": "https://based.cooking/quiche/",
+		"ingredients": [
+			"200g Flour (full sight)",
+			"100g Butter or Margarine",
+			"5 Tablespoons of Water",
+			"200g of Ham (alternatively cooked ham)",
+			"4 Eggs",
+			"1/4 Cream",
+			"125g grinded Edamer Cheese",
+			"For the Baking Tin: More Butter and Flour"
+		]
+	},
+	{
+		"name": "Quick Breakfast Spaghetti",
+		"url": "https://based.cooking/quickbreakfastspaghetti/",
+		"ingredients": [
+			"Spaghetti (any kind you prefer)",
+			"Ground spices (I like to use cumin, turmeric, paprika, and garlic)",
+			"Tomato Paste/Sauce (preferably one with basil and without preservative)",
+			"Extra Virgin Olive Oil"
+		]
+	},
+	{
+		"name": "Ragù",
+		"url": "https://based.cooking/ragu/",
+		"ingredients": [
+			"1 pound tubular dried pasta",
+			"1 pound sweet Italian sausage",
+			"1 onion, minced",
+			"1 carrot, minced",
+			"1 celery stalk, minced",
+			"28oz (825 ml) can of whole tomatoes",
+			"3 tablespoon of tomato paste",
+			"1/4 cup fresh parsley",
+			"1 sprig of fresh thyme",
+			"1 sprig of fresh rosemary",
+			"grated Parmesan cheese (optional)",
+			"extra-virgin olive oil"
+		]
+	},
+	{
+		"name": "Ragu Napoletano",
+		"url": "https://based.cooking/ragu-napoletano/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Ratatouille",
+		"url": "https://based.cooking/ratatouille/",
+		"ingredients": [
+			"3 1/2 lbs Tomatoes",
+			"1 1/2 lbs Eggplant",
+			"1 lb Zucchini",
+			"3 Bell Peppers",
+			"2 lbs Onions",
+			"6 cloves Garlic",
+			"Herbes de Provence (Basil, Thyme, Parsley)",
+			"Olive Oil",
+			"Salt",
+			"Pepper",
+			"140g Tomato Paste (optional if tomatoes aren't yummy)"
+		]
+	},
+	{
+		"name": "Ravioli",
+		"url": "https://based.cooking/ravioli/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Red Lentil Dahl",
+		"url": "https://based.cooking/red-lentil-dahl/",
+		"ingredients": [
+			"3 Tbsp Olive Oil",
+			"1 medium Yellow Onion",
+			"1 Tbsp Fresh Ginger, grated",
+			"4 Garlic Cloves, minced",
+			"2 Tbsp Yellow Curry (mild madras)",
+			"1 tsp Sea Salt",
+			"1 cup dried Red Lentils",
+			"4 - 5 cups Water",
+			"5 Plum Tomatoes, chopped",
+			"juice of 1 Lemon",
+			"1 cup Fresh Cilantro, chopped and lightly packed",
+			"Dried Red Chili's or cayenne pepper, to taste",
+			"1/4 tsp Ground Cinnamon"
+		]
+	},
+	{
+		"name": "Red Sauce (Ragu all'Italiana)",
+		"url": "https://based.cooking/red-sauce/",
+		"ingredients": [
+			"1/3 lb salt pork",
+			"2 lb chuck roast",
+			"3 Cloves of garlic",
+			"Crushed hot red pepper",
+			"Sweet onion",
+			"Large carrot",
+			"2 Bay leaves",
+			"2 tbsp. Olive oil (she used mazola oil)",
+			"12 oz. Can tomato paste",
+			"29 oz. Diced tomatoes",
+			"29 oz. Tomato puree"
+		]
+	},
+	{
+		"name": "Refried Beans",
+		"url": "https://based.cooking/refried-beans/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Rice",
+		"url": "https://based.cooking/rice/",
+		"ingredients": [
+			"rice",
+			"[chicken stock](/chicken-stock-bone-broth) (optional)",
+			"onion or garlic (optional)",
+			"lime and cilantro (optional, for a Mexican taste)"
+		]
+	},
+	{
+		"name": "Ricotta lasagna filling",
+		"url": "https://based.cooking/ricotta-lasagna-filling/",
+		"ingredients": [
+			"Ricotta cheese",
+			"One large egg",
+			"Parmesan cheese",
+			"Oregano (Optional)"
+		]
+	},
+	{
+		"name": "Ricotta",
+		"url": "https://based.cooking/ricotta/",
+		"ingredients": [
+			"thermometer",
+			"1 cheesecloth",
+			"1 cheese recipient",
+			"2l of whey",
+			"500ml of milk (or if not using whey, 2l of milk)",
+			"10g of table salt",
+			"6g of citric acid (contained in 130ml of lemon juice)"
+		]
+	},
+	{
+		"name": "Risengrød",
+		"url": "https://based.cooking/risengroed/",
+		"ingredients": [
+			"Water *3 dl*",
+			"Pama porridge rice *180 g*",
+			"Whole milk *1 liter*",
+			"Salt *2 pinches*",
+			"Sugar *4 tablespoons*",
+			"Cinnamon *2 teaspoons*",
+			"Butter *50 g*"
+		]
+	},
+	{
+		"name": "Roasted chicken breast",
+		"url": "https://based.cooking/roasted-chicken-breast/",
+		"ingredients": [
+			"Boneless skinless chicken breast(s)",
+			"1/4 stick of butter per chicken breast",
+			"Seasoning (optional)"
+		]
+	},
+	{
+		"name": "Rösti",
+		"url": "https://based.cooking/roesti/",
+		"ingredients": [
+			"~800g (~1.5lb) potatoes (firm/waxy)",
+			"2 carrots",
+			"500g (~1lb) peas or spinach",
+			"4 eggs",
+			"2 onions (medium size)",
+			"butter"
+		]
+	},
+	{
+		"name": "Russian 1000 Islands Sauce",
+		"url": "https://based.cooking/russian-1000-islands-sauce/",
+		"ingredients": [
+			"Ketchup (Sir Kensington's recommended)",
+			"Mayonnaise",
+			"Horseradish",
+			"Worchestershire sauce",
+			"Paprika",
+			"Dijon mustard",
+			"Onion powder",
+			"Pickle relish (optional)"
+		]
+	},
+	{
+		"name": "Salsa",
+		"url": "https://based.cooking/salsa/",
+		"ingredients": [
+			"1 1/4 lbs (600 grams) tomatoes",
+			"1 14.5 oz (400 grams) canned tomatoes",
+			"1 green onion",
+			"1 red onion",
+			"1 jalapeño pepper",
+			"1 handfull fresh cilantro",
+			"1 clove garlic",
+			"1/2 lime, juice squeezed (optional)",
+			"1 chili pepper (optional)",
+			"1/4 tsp ground cumin (optional)"
+		]
+	},
+	{
+		"name": "Salsa Verde",
+		"url": "https://based.cooking/salsa-verde/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Sardine Cakes",
+		"url": "https://based.cooking/sardine-cakes/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Sauerkraut",
+		"url": "https://based.cooking/sauerkraut/",
+		"ingredients": [
+			"1 head of cabbage",
+			"2-4% sea salt by cabbage weight"
+		]
+	},
+	{
+		"name": "Sausage Rolls",
+		"url": "https://based.cooking/sausage-rolls/",
+		"ingredients": [
+			"Eggs",
+			"Puff pastry",
+			"Pork meat / sausage meat"
+		]
+	},
+	{
+		"name": "Savory Squash",
+		"url": "https://based.cooking/savory-squash/",
+		"ingredients": [
+			"1 Butternut Squash",
+			"1/2 Stick of butter",
+			"Salt, to taste",
+			"St. Augur Blue Cheese",
+			"Chives"
+		]
+	},
+	{
+		"name": "Scandinavian Coffee Cake",
+		"url": "https://based.cooking/scandinavian-coffee-cake/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Schinkenfleckerl überbacken, Viennese Mac'n'Cheese",
+		"url": "https://based.cooking/schinkenfleckerl-gratinated/",
+		"ingredients": [
+			"1kg ham or smoked rolled roast",
+			"1kg cooked fusilli noodles or small square flat noodles (=Fleckerl)",
+			"500 ml cream",
+			"500 ml sour cream",
+			"1-2 eggs",
+			"Majoran, Muskat, Pepper",
+			"Optional:"
+		]
+	},
+	{
+		"name": "Schnitzel",
+		"url": "https://based.cooking/schnitzel/",
+		"ingredients": [
+			"4 veal cutlets (1 ~ 150g)",
+			"2 eggs",
+			"1 lemon",
+			"100g flour",
+			"150g bread crumbs",
+			"100g butter (or even better clarified butter)"
+		]
+	},
+	{
+		"name": "Scouse",
+		"url": "https://based.cooking/scouse/",
+		"ingredients": [
+			"beef mince",
+			"a white onion",
+			"garlic",
+			"bayleaf",
+			"potatoes",
+			"carrots",
+			"beef stock ~1 pint",
+			"beef gravy granules",
+			"parsnips(optional)",
+			"swede(optional)",
+			"cabbage(optional)"
+		]
+	},
+	{
+		"name": "Garlic Butter Seafood Pasta",
+		"url": "https://based.cooking/seafood-pasta/",
+		"ingredients": [
+			"spaghetti or fettucine",
+			"butter",
+			"heavy cream",
+			"garlic",
+			"oregano",
+			"white wine (Pinot Grigio or Sauvignon Blanc recommended)",
+			"lemon/lemon juice (optional)",
+			"red pepper flakes (optional)",
+			"seafood, choose from:"
+		]
+	},
+	{
+		"name": "Shakshouka",
+		"url": "https://based.cooking/shakshouka/",
+		"ingredients": [
+			"5 small tomatoes",
+			"5 eggs",
+			"1 peeled white onion",
+			"some chives",
+			"cumin",
+			"powdered sweet pepper"
+		]
+	},
+	{
+		"name": "Shepherd's Pie",
+		"url": "https://based.cooking/shepherds-pie/",
+		"ingredients": [
+			"600 grams (g) of mealy/floury potatoes",
+			"2 onions",
+			"2 carrots",
+			"4 tablespoons (tbsp.) of oil",
+			"800 g of minced lamb",
+			"100 g of frozen peas",
+			"2 tbsp. of tomato paste/puree",
+			"300 milliliters (ml) beef stock",
+			"1 tbsp. of sweet or smoked paprika",
+			"30 g of butter",
+			"200 ml of milk",
+			"1 pinch of nutmeg"
+		]
+	},
+	{
+		"name": "Shrimp and Chicken Jambalaya",
+		"url": "https://based.cooking/shrimp-and-chicken-jambalaya/",
+		"ingredients": [
+			"1/4 tsp Cayenne",
+			"3/4 tsp White Pepper",
+			"1 tsp Kosher Salt",
+			"1/4 tsp Thyme",
+			"1/2 tsp Rubbed Sage",
+			"1/4 tsp Dried Basil",
+			"1/2 tsp Black Pepper",
+			"1 Tbsp Unsalted Butter",
+			"1/2 cup Diced Andouille (or Chirozo sausage)",
+			"1/2 cup Diced Onion",
+			"1/2 cup Diced Bell Pepper",
+			"1/2 cup Diced Celery",
+			"1/2 cup Diced Fresh Tomatoes",
+			"1/2 cup Tomato Sauce",
+			"3/4 cup Enriched Long Grain Rice",
+			"1-1/4 cup Chicken Stock",
+			"1 Tbsp Worcestershire Sauce",
+			"2 Tbsp Minced Fresh Garlic",
+			"1/2 cup Diced Chicken (cooked or raw)",
+			"1-1/2 cup Medium Shrimp",
+			"1 Tbsp Finely Chopped Italian Parsley",
+			"3 Tbsp Finely Sliced Green Onions"
+		]
+	},
+	{
+		"name": "Shrimp and Grits",
+		"url": "https://based.cooking/shrimp-and-grits/",
+		"ingredients": [
+			"2 lbs Large/Jumbo Shrimp",
+			"6 Slices of Bacon",
+			"1 cup Un-Cooked Grits",
+			"3 cups Chicken Broth",
+			"2 cups Shredded Cheddar Cheese",
+			"3 tbsp Butter",
+			"3 tbsp Chopped Fresh Parsley",
+			"1 tbsp Creole / Cajun seasoning",
+			"2 Cloves of Garlic, minced",
+			"2 tsp Worcestershire Sauce",
+			"1 tbsp Lemon Juice"
+		]
+	},
+	{
+		"name": "'Shrimp Fettuccine Alfredo'",
+		"url": "https://based.cooking/shrimp-fettuccine-alfredo/",
+		"ingredients": [
+			"1 8oz cream cheese",
+			"1lb uncoocked peeled shrimp",
+			"1/3 cup milk (more milk for thinner sauce)",
+			"3/4 cup grated parmesan cheese",
+			"2 tblsp butter",
+			"1 tsp garlic powder",
+			"Pasta noodles of choice (e.g. approximately 9oz of fettuccine noodles)"
+		]
+	},
+	{
+		"name": "Simple Chicken Curry",
+		"url": "https://based.cooking/simple-chicken-curry/",
+		"ingredients": [
+			"1 ½ tsp Coriander",
+			"1 tsp Cumin",
+			"½ tsp Turmeric",
+			"½ tsp Ground Fennel Seeds",
+			"½ tsp Cinnamon",
+			"½ tsp Black Pepper",
+			"½ tsp Ginger",
+			"¼ tsp Mustard",
+			"¼ tsp Ground Cloves",
+			"Sriracha Sauce (optional)",
+			"¼ cup (½ stick) Butter",
+			"1 large Onion",
+			"4 cloves Garlic",
+			"2-3 cups Chicken Broth",
+			"2-3 cups Crushed or Pureed Tomatoes",
+			"1 ½ lbs Boneless Skinless Chicken Breasts"
+		]
+	},
+	{
+		"name": "Simple Creamy Pasta Sauce",
+		"url": "https://based.cooking/simple-pasta-cream-sauce/",
+		"ingredients": [
+			"Dairy liquid cream (10%+ fat recommended)",
+			"Flour (Wheat flour recommended)"
+		]
+	},
+	{
+		"name": "Simple sauce",
+		"url": "https://based.cooking/simple-sauce/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Slow-cooked Lamb with Lemon",
+		"url": "https://based.cooking/slow-cooked-lamb-with-lemon/",
+		"ingredients": [
+			"Lamb shoulder, or something similar, like lamb shank, preferably on the bone. Get something that will fit in your pot, with room for vegetables around it. For example, I usually get half a shoulder, 2 – 3 lbs, 1 – 1.5kg.",
+			"a whole head of garlic",
+			"2 carrots",
+			"1 leek",
+			"1 onion",
+			"2 lemons",
+			"oregano",
+			"rosemary",
+			"potatoes (optional)",
+			"yoghurt (optional, to serve)",
+			"fresh bread (optional, to serve)"
+		]
+	},
+	{
+		"name": "Smoked Salmon Pasta Primavera",
+		"url": "https://based.cooking/smoked-salmon-pasta-primavera/",
+		"ingredients": [
+			"12 oz Linguine",
+			"1/2 lb Asparagus, cut into 2inch pieces",
+			"1/4 lb Green Beans, halved",
+			"1 cup Sugar Snap Peas, trimmed",
+			"1/2 cup Frozen Edamame or Peas",
+			"1 Tbsp Butter",
+			"1 small Onion, minced",
+			"2 cloves Garlic, minced",
+			"3 Tbsp All-Purpose Flour",
+			"2 1/2 cup Milk",
+			"1/3 lb Smoked Salmon, cut into wide strips",
+			"1/2 cup Fresh Mint, coarsely chopped",
+			"1/2 Lemon"
+		]
+	},
+	{
+		"name": "Smoked Salmon Quiche",
+		"url": "https://based.cooking/smoked-salmon-quiche/",
+		"ingredients": [
+			"1 3/4 cups Flour",
+			"1 cup + 2 1/2 Tbsp Butter, divided",
+			"Up to 1/3 cup Water, chilled",
+			"1/2 cup Onion, finely chopped",
+			"14 ounces Smoked Salmon, chopped",
+			"2 tsp Fresh Chives, chopped",
+			"1 clove Garlic, chopped",
+			"2 tsp Fresh Basil, chopped",
+			"5 whole Eggs",
+			"1 cup Milk",
+			"1 cup Whipping Cream"
+		]
+	},
+	{
+		"name": "Soleier (pickled eggs)",
+		"url": "https://based.cooking/soleier/",
+		"ingredients": [
+			"peels of five onions",
+			"10 eggs",
+			"2 loorber leaves",
+			"3 cloves",
+			"4 allspice",
+			"1Tbsp peppercorns",
+			"1Tbsp caraway seeds",
+			"1Tbsp mustard seeds",
+			"1tsp of Szechuan pepper (optional)",
+			"1tsp lovage (optional)",
+			"1tsp nutmeg (optional)",
+			"100mL vinegar",
+			"3 cloves of garlic"
+		]
+	},
+	{
+		"name": "Sourdough bread with seeds and grains",
+		"url": "https://based.cooking/sourdough-bread-with-seeds-and-grains/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Sourdough Table Loaf",
+		"url": "https://based.cooking/sourdough-loaf/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Potato sourdough bread",
+		"url": "https://based.cooking/sourdough-potato-bread/",
+		"ingredients": [
+			"150g boiled potatoes in there skin",
+			"350g wheat flour",
+			"50g whole rye flour",
+			"11g salt",
+			"150g water",
+			"250g sourdough"
+		]
+	},
+	{
+		"name": "Sourdough starter",
+		"url": "https://based.cooking/sourdough-starter/",
+		"ingredients": [
+			"Wheat or rye flour",
+			"Water"
+		]
+	},
+	{
+		"name": "Southern Biscuits",
+		"url": "https://based.cooking/southern-biscuits/",
+		"ingredients": [
+			"2 cups AP flour",
+			"1 tsp white sugar",
+			"1 tbsp baking powder",
+			"1 tsp kosher salt",
+			"8 tbsp sweet butter",
+			"3/4 cup whole milk"
+		]
+	},
+	{
+		"name": "Spaghetti all'amatriciana",
+		"url": "https://based.cooking/spaghetti-all-amatriciana/",
+		"ingredients": [
+			"Pecorino romano cheese preferably or Parmesan 1.5oz (40g)",
+			"Fresh chili pepper (as many as you'd like)",
+			"Extra virgin olive oil 1/4 cup (40g)",
+			"Guanciale preferably or Bacon 3.5oz (100g)",
+			"White wine 1/4 cup (60g)",
+			"Tomato passata 10oz (300g)",
+			"Spaghetti or similar long pasta 12oz (350g)",
+			"(optional) Extra pecorino romano or parmesan"
+		]
+	},
+	{
+		"name": "Spaghetti alla puttanesca",
+		"url": "https://based.cooking/spaghetti-alla-puttanesca/",
+		"ingredients": [
+			"Pot of water",
+			"320g italian spaghetti",
+			"2 garlic cloves",
+			"10g salted capers",
+			"25g anchovies in oil",
+			"800g peeled tomatoes sugo",
+			"1 bunch of parsley",
+			"100g Gaeta olives",
+			"2 chopped chillies",
+			"A pinch of salt"
+		]
+	},
+	{
+		"name": "Spaghetti and Meatballs",
+		"url": "https://based.cooking/spaghetti-and-meatballs/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Spanish Tortilla",
+		"url": "https://based.cooking/spanish-tortilla/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Spatchcock Chicken",
+		"url": "https://based.cooking/spatchcock-chicken/",
+		"ingredients": [
+			"2 (3 1/2) pound whole chickens, wingtips removed",
+			"2 teaspoons salt",
+			"1 teaspoon dried tarragon",
+			"1 teaspoon paprika",
+			"1/4 teaspoon black pepper",
+			"4 teaspoons olive oil",
+			"2 lemons, thinly sliced and seeded"
+		]
+	},
+	{
+		"name": "Spiced Apple Pancakes",
+		"url": "https://based.cooking/spiced-apple-pancakes/",
+		"ingredients": [
+			"1 cup flour",
+			"1 large apple, peeled",
+			"1 tbsp sugar",
+			"1 tbsp cinnamon (or more to taste)",
+			"1/2 tsp baking powder",
+			"1 tsp vanilla extract",
+			"2/3 cup milk",
+			"1 egg"
+		]
+	},
+	{
+		"name": "Spicy Kung Pao-Style Chicken",
+		"url": "https://based.cooking/spicy-kung-pao-style-chicken/",
+		"ingredients": [
+			"4 Chicken Thighs",
+			"3/4 cup Basmati Rice",
+			"4 Tbsp All-Purpose Flour",
+			"2 small Sweet Peppers, chopped",
+			"3 ribs Celery",
+			"2 cloves Garlic",
+			"1 Tbsp Ginger, minced",
+			"2 whole Green Onions, thinly sliced",
+			"2 Tbsp Chili Garlic Sauce, divided",
+			"2 Tbsp Soy Sauce",
+			"2 Tbsp Sweet Chili Sauce",
+			"1/4 cup Peanuts, chopped",
+			"Oil"
+		]
+	},
+	{
+		"name": "Spicy Mayo",
+		"url": "https://based.cooking/spicy-mayo/",
+		"ingredients": [
+			"chili sauce (e.g Sriracha)",
+			"mayonnaise",
+			"sesame oil"
+		]
+	},
+	{
+		"name": "Spicy Sausage Pasta",
+		"url": "https://based.cooking/spicy-sausage-pasta/",
+		"ingredients": [
+			"2 red onions, chopped",
+			"Olive oil",
+			"6 spicy Italian sausages",
+			"1 sprig rosemary, needles finely chopped",
+			"1 red chilli, deseeded and diced",
+			"A large glass of red wine (approx. 250ml)",
+			"2 x 400g tins chopped plum tomatoes",
+			"300g pasta, preferably penne",
+			"50g parmesan",
+			"300ml double cream"
+		]
+	},
+	{
+		"name": "Spinach-Rice Casserole",
+		"url": "https://based.cooking/spinach-rice-casserole/",
+		"ingredients": [
+			"4 cups Brown Rice, cooked",
+			"2 lbs raw Spinach, chopped",
+			"1 cup Onion, chopped",
+			"2 cloves Garlic, minced",
+			"3 Tbsp Butter",
+			"4 Eggs, beaten",
+			"1 cup Milk",
+			"1 1/2 cups Cheddar, grated",
+			"1/4 cup Parsley, chopped",
+			"2 Tbsp Tamari",
+			"1/2 tsp Salt (or more, to taste)",
+			"1/4 cup Sunflower Seeds",
+			"A few dashes each - Nutmeg; Cayenne; Paprika"
+		]
+	},
+	{
+		"name": "Steak Tartare",
+		"url": "https://based.cooking/steak-tartare/",
+		"ingredients": [
+			"Ground Beef (Lean as possible)",
+			"Eggs",
+			"Onion or Shallots",
+			"Capers",
+			"Gherkin / Cornichons",
+			"Parsley (Optional)",
+			"Ketchup (Optional)",
+			"Mustard (Optional)",
+			"Worcestershire Sauce (Optional)"
+		]
+	},
+	{
+		"name": "Sticky Porkchops",
+		"url": "https://based.cooking/sticky-porkchops/",
+		"ingredients": [
+			"4 Pork chops",
+			"2 heaped tbsp Set honey",
+			"3 Garlic cloves, crushed",
+			"Soy sauce",
+			"Ginger (thumb sized piece), sliced",
+			"1 tbsp Chinese Five Spice"
+		]
+	},
+	{
+		"name": "Stir Fried Chicken with an Orange Sauce",
+		"url": "https://based.cooking/stir-fried-chicken-with-an-orange-sauce/",
+		"ingredients": [
+			"Chicken (a pound or two)",
+			"Oranges",
+			"An Onion",
+			"Two Red Bell Peppers",
+			"Soy Sauce",
+			"Honey",
+			"Butter",
+			"Flour"
+		]
+	},
+	{
+		"name": "Stoemp",
+		"url": "https://based.cooking/stoemp/",
+		"ingredients": [
+			"500g potatoes",
+			"300g carrots",
+			"100g bacon",
+			"50g butter",
+			"100ml heavy cream",
+			"1/2 teaspoon ground nutmeg"
+		]
+	},
+	{
+		"name": "Stoofvlees",
+		"url": "https://based.cooking/stoofvlees/",
+		"ingredients": [
+			"2 Large onions",
+			"1 tablespoon butter",
+			"1kg chuck roast, cut in bite-sized pieces",
+			"2 33cl bottles of brown beer",
+			"2 bayleaves",
+			"2 twigs of thyme",
+			"1 clove (spice)",
+			"2 tablespoons of belgian apple/pear syrup (optional, ill write up a recipe for this soon)",
+			"2 teaspoons of vinegar",
+			"1 slice of bread",
+			"mustard"
+		]
+	},
+	{
+		"name": "Strawberry Compote",
+		"url": "https://based.cooking/strawberry-compote/",
+		"ingredients": [
+			"Strawberries (two standard packs works best)",
+			"Sugar"
+		]
+	},
+	{
+		"name": "Beef Stroganoff",
+		"url": "https://based.cooking/stroganoff/",
+		"ingredients": [
+			"beef",
+			"[chicken stock](/chicken-stock-bone-broth)",
+			"onions",
+			"flour",
+			"butter",
+			"Worchestershire sauce or something similar",
+			"dijon or honey dijon mustard",
+			"egg noodles"
+		]
+	},
+	{
+		"name": "Stuffed Round Squash",
+		"url": "https://based.cooking/stuffed-round-squash/",
+		"ingredients": [
+			"2 Onions",
+			"1 Carrot",
+			"4 Round squash",
+			"1 Cup of rice",
+			"100gr of Cheese (optional)"
+		]
+	},
+	{
+		"name": "Sunday Morning Milkshake",
+		"url": "https://based.cooking/sunday-milkshake/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Swedish Pancakes",
+		"url": "https://based.cooking/swedish-pancakes/",
+		"ingredients": [
+			"3 Eggs, beaten",
+			"1 tsp Salt",
+			"1 tbsp Sugar",
+			"1 cup Flour",
+			"1 - 2/3 cups Milk",
+			"6-8 tbsp Butter"
+		]
+	},
+	{
+		"name": "Basic Sweet Potato Fries Recipe",
+		"url": "https://based.cooking/sweet-potato-fries/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Tabouleh",
+		"url": "https://based.cooking/tabouleh/",
+		"ingredients": [
+			"2 cups Cracked Wheat (bulghur) ",
+			"2 cups Very Hot Water (or as directed) ",
+			"1 Cucumber, chopped",
+			"2 small Tomatoes, chopped",
+			"1 bunch Green Onions, sliced",
+			"1/2 cup Mint (fresh), chopped",
+			"2 cup Parsley (fresh), chopped",
+			"1 clove Garlic, minced",
+			"1/2 cup Lemon Juice (fresh)",
+			"3/4 cup Olive Oil",
+			"1 Tbsp Pepper",
+			"2 tsp Salt"
+		]
+	},
+	{
+		"name": "Taco Meat",
+		"url": "https://based.cooking/taco-meat/",
+		"ingredients": [
+			"1 pound (about 500 g) ground beef or turkey",
+			"1 medium onion, finely chopped (or 1 1/2 teaspoon onion powder)",
+			"1 medium tomato, chopped (or 1 small can of tomato sauce)",
+			"1 teaspoon chili powder (or 1/3 teaspoon each oregano, cumin, garlic powder)",
+			"1 teaspoon oregano (ground or leaf)",
+			"1/4 teaspoon cumin",
+			"dash of pepper (1/8 teaspoon or less)"
+		]
+	},
+	{
+		"name": "'Tahini short bread'",
+		"url": "https://based.cooking/tahini-short-bread/",
+		"ingredients": [
+			"125g of butter",
+			"from 30g to 70g of sugar",
+			"75g of Tahini",
+			"1 egg",
+			"200g of flour (T45)",
+			"3g of baking powder",
+			"Any toppings if desired (chocolate chips, ...) although it is very enjoyable on its own."
+		]
+	},
+	{
+		"name": "Tajine Maadnous",
+		"url": "https://based.cooking/tajine/",
+		"ingredients": [
+			"1 lb chicken breasts diced",
+			"1 medium onion chopped",
+			"1 large potato peeled and diced",
+			"1 cup water",
+			"1 small bunch parsley (about 1.5 cups, chopped, loosely packed)",
+			"8 large eggs",
+			"6 oz cheese",
+			"2 tbsp olive oil"
+		]
+	},
+	{
+		"name": "Tanzanian Tea w/ Milk",
+		"url": "https://based.cooking/tanzania-tea-with-milk/",
+		"ingredients": [
+			"Black Ceylon Tea (Preferably, you want a dark, herbal flavor from your tea. I have some from Dar es Salaam,",
+			"Milk/Sweet Cream",
+			"Sweetener (Sugar, Syrup, Monk Fruit extract, etc.) (optional, but recommended)"
+		]
+	},
+	{
+		"name": "Tarta de Santiago",
+		"url": "https://based.cooking/tarta-de-santiago/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Teriyaki Beef Wok",
+		"url": "https://based.cooking/teriyaki-beef/",
+		"ingredients": [
+			"2 dL water",
+			"2 tbsp cornstarch",
+			"1 tbsp honey",
+			"1/4 tsp ginger",
+			"3 tbsp soy sauce",
+			"Sesame oil",
+			"Beef slices or strips",
+			"Carrot, sliced (optional)",
+			"Broccoli, florets (optional)",
+			"Baby corn (optional)",
+			"Water chestnut, sliced (optional)",
+			"Bean sprouts (optional)",
+			"Chili pepper, diced (optional)",
+			"Noodles or rice"
+		]
+	},
+	{
+		"name": "Tiroler Gröstl",
+		"url": "https://based.cooking/tiroler-groestl/",
+		"ingredients": [
+			"1 kg / 2 lbs potatoes",
+			"2 red onions",
+			"500 g / 1 lbs porkchops",
+			"400 g / 14 ounce bacon (smoked)",
+			"5 eggs",
+			"3 cloves of garlic",
+			"Ample amount of chopped parsley",
+			"Marjoram and cumin to taste"
+		]
+	},
+	{
+		"name": "Tofu and Cashew Chow Mein",
+		"url": "https://based.cooking/tofu-and-cashew-chow-mein/",
+		"ingredients": [
+			"10 oz Precooked Thick Wheat Noodles",
+			"3 Tbsp Soy Sauce",
+			"2 Tbsp Oyster Sauce",
+			"2 tsp Sesame Oil",
+			"2 Tbsp Peanut Oil or other suitable frying oil",
+			"6 oz Firm Tofu, cut into cubes",
+			"1 Carrot, julienned",
+			"2 cups Small Broccoli Florets",
+			"2 cloves Garlic, minced",
+			"2 tsp Ginger, finely grated",
+			"1/2 cup Roasted Cashews"
+		]
+	},
+	{
+		"name": "Tofu Stir Fry",
+		"url": "https://based.cooking/tofu-stir-fry/",
+		"ingredients": [
+			"One block of extra firm tofu",
+			"Three eggs",
+			"Vegetables per your choice, recommendations include:",
+			"Soy or teriyaki sauce",
+			"2 tbsp minced garlic",
+			"Coconut oil"
+		]
+	},
+	{
+		"name": "Tomato and Grilled Bell Pepper soup",
+		"url": "https://based.cooking/tomato-and-grilled-paprika-soup/",
+		"ingredients": [
+			"10 tomatoes",
+			"2 red bell peppers",
+			"2 onions",
+			"1 clove of garlic",
+			"1L stock or broth",
+			"¾t Cayenne pepper",
+			"1t paprika powder",
+			"3t bruschetta herbs",
+			"1t oregano",
+			"1t giner syrup",
+			"2T olive oil",
+			"2T heavy cream"
+		]
+	},
+	{
+		"name": "Tomato Flavored Hamburger and Macaroni",
+		"url": "https://based.cooking/tomato-flavored-hamburger-macaroni/",
+		"ingredients": [
+			"1/4 lb. Pork Sausage",
+			"1 lb. Med ground beef",
+			"1 3/4 Cups Elbow macaroni",
+			"1 Can of tomato sauce",
+			"Diced half onion",
+			"Diced half bell pepper",
+			"Oregano leaves",
+			"Paprika",
+			"Sage",
+			"Thyme",
+			"Marjoram",
+			"Rosemary leaves",
+			"2 Large grated garlic cloves",
+			"Onion powder",
+			"Frank's RedHot sauce (optional)",
+			"Mozzarella Cheese (optional)",
+			"Better than Bulion",
+			"1 3/4 cups of Macaroni Elbows"
+		]
+	},
+	{
+		"name": "Torrijas",
+		"url": "https://based.cooking/torrijas/",
+		"ingredients": [
+			"Dried bread (or Torrijas bread). Must be bread from a regular loaf, not from a tin loaf.",
+			"Milk (to soak the bread, 2 cups per 16 torrijas approx.)",
+			"Eggs (to coat the bread, 2 eggs per 16 torrijas approx.)",
+			"Cinnamon",
+			"Grated lemon rind (optional)",
+			"Sugar",
+			"Olive oil"
+		]
+	},
+	{
+		"name": "Torta Frita Criolla (Argentinian frybread)",
+		"url": "https://based.cooking/torta-frita-criolla/",
+		"ingredients": [
+			"1.1 pound (1/2 kilo) of all-purpose flour.",
+			"4 tablespoons of lard or butter.",
+			"1/2 cup of water mixed with a teaspoon of salt.",
+			"Oil or grease of choice for frying. (Modern Argentines use refined tallow or sunflower seed oil, but for the real gaucho way, unrefined lard or tallow is the right choice) ",
+			"Sugar, cinnamon, or herbs and spices of choice (Optional)"
+		]
+	},
+	{
+		"name": "Tortellini",
+		"url": "https://based.cooking/tortellini/",
+		"ingredients": [
+			"Tortellini",
+			"1-2 eggs",
+			"Cooking cream",
+			"Cheese (optional)"
+		]
+	},
+	{
+		"name": "Tuh'u",
+		"url": "https://based.cooking/tuhu/",
+		"ingredients": [
+			"450 g of lamb leg meat, diced",
+			"4 tbsp of sesame oil, olive oil, or rendered fat",
+			"350 mL of prepared water",
+			"350 mL of sour-tasting beer (e.g. Weißbier)",
+			"1 large onion, chopped",
+			"2 cups of arugula, chopped",
+			"¾ cup of cilantro, chopped",
+			"2 tsp of cumin seeds, crushed or powdered",
+			"2 large beetroots, chopped",
+			"1 leek, minced or diced",
+			"3-9 cloves of garlic, minced or diced",
+			"1 Persian shallot (Akkadian: *samidu*; uncertain translation)",
+			"1 Egyptian leek (Akkadian: *suhutinnu*; uncertain translation)",
+			"Coriander seeds for garnish"
+		]
+	},
+	{
+		"name": "Simple Tuna Salad",
+		"url": "https://based.cooking/tuna-salad/",
+		"ingredients": [
+			"1 (7 oz) can white tuna, drained",
+			"6 tablespoons mayonnaise",
+			"1 tablespoons sweet pickle relish",
+			"A pinch of garlic powder (optional)",
+			"2 tablespoons white vinegar or lemon juice (optional)",
+			"1 cup shredded cheese (optional)",
+			"1 chopped hard-boiled egg (optional)"
+		]
+	},
+	{
+		"name": "Tuna Sub",
+		"url": "https://based.cooking/tuna-sub/",
+		"ingredients": [
+			"1 recipe of your favorite tuna salad",
+			"Sandwich bun or bread (a good one)",
+			"Thinly sliced cheese (your favorite)",
+			"Sliced tomatoes",
+			"Baby spinach leaves",
+			"Pickles",
+			"Mayo and mustard",
+			"Other sandwich toppings (very little out of bounds here)."
+		]
+	},
+	{
+		"name": "Smoked Turkey",
+		"url": "https://based.cooking/turkey-smoked/",
+		"ingredients": [
+			"1 turkey, 5-15 lb. (thawed)",
+			"1-2 cups whipped butter (room temperature)",
+			"2 cup chicken broth",
+			"1-4 tbsp garlic powder (optional)",
+			"1 lb mixed vegetables (carrots, potatoes, broccoli, etc.) (optional)"
+		]
+	},
+	{
+		"name": "Turkish Red Lentil Soup",
+		"url": "https://based.cooking/turkish-red-lentil-soup/",
+		"ingredients": [
+			"1 cup Red Lentils",
+			"5 Tbsp Olive Oil",
+			"1 Tbsp Paprika",
+			"1/2 Tbsp Red Paper Flakes",
+			"1 large Onion, finely diced",
+			"1 large Carrot, diced",
+			"4 tsp Tomato Paste",
+			"2 tsp Cumin",
+			"1/2 tsp Dried Mint",
+			"1/2 tsp Thyme or Oregano",
+			"4 cup Vegetable Broth",
+			"4 cup Water"
+		]
+	},
+	{
+		"name": "Turkish-Style Spiced Chicken",
+		"url": "https://based.cooking/turkish-style-spiced-chicken/",
+		"ingredients": [
+			"2 Chicken Breasts",
+			"1 Tbsp Turkish Spice Blend",
+			"1 oz Almonds, sliced",
+			"3/4 cup Basmati Rice",
+			"12 oz Sweet Potato",
+			"2 oz Onion, chopped",
+			"100 mL Greek Yogurt",
+			"2 Tbsp Parsley",
+			"1 Lemon",
+			"1/2 tsp Garlic Salt",
+			"1 1/2 cup Chicken Broth",
+			"1 tsp Sugar"
+		]
+	},
+	{
+		"name": "Turkish Yogurt Soup",
+		"url": "https://based.cooking/turkish-yogurt-soup/",
+		"ingredients": [
+			"yogurt",
+			"1/3 cup rice",
+			"2 tablespoon flour",
+			"1 egg yolk",
+			"butter"
+		]
+	},
+	{
+		"name": "Turmeric Flatbread",
+		"url": "https://based.cooking/turmeric-flatbread/",
+		"ingredients": [
+			"1 cup Wheat Flour (white or whole)",
+			"1/2 Tbsp Ground Turmeric",
+			"1/2 tsp Kosher Salt",
+			"1/4 tsp Baking Powder",
+			"2 Tbsp Olive Oil"
+		]
+	},
+	{
+		"name": "Tuscan Style Pork Roast",
+		"url": "https://based.cooking/tuscan-style-pork-roast/",
+		"ingredients": [
+			"1 pork Roast",
+			"2-3 Tbsp fresh rosemary",
+			"8 cloves garlic, minced",
+			"⅓ cup high quality olive oil",
+			"1 lemon",
+			"4 oz pancetta or bacon",
+			"1 tsp fresh parsley"
+		]
+	},
+	{
+		"name": "Tzatziki",
+		"url": "https://based.cooking/tzatziki/",
+		"ingredients": [
+			"Greek yogurt, 2 cups",
+			"Cucumber, 3 inches",
+			"Dill",
+			"Garlic, 1 clove/teaspoon",
+			"Olive oil, 1 teaspoon",
+			"Lemon/lime or vinegar",
+			"Salt and pepper"
+		]
+	},
+	{
+		"name": "Ukrainian Borscht",
+		"url": "https://based.cooking/ukrainian-borscht/",
+		"ingredients": [
+			"3 red beetroots",
+			"4 Tbsp extra virgin olive oil",
+			"8 cups chicken broth + 2 cups water",
+			"3 yukon potatoes",
+			"2 carrots",
+			"2 celery ribs",
+			"1 onion",
+			"4 Tbsp ketchup or 3 Tbsp tomato sauce",
+			"1 red bell pepper (optional)",
+			"1 can white cannelini beans with their juice (optional)",
+			"2 bay leaves (optional)",
+			"1 pressed garlic clove (optional)",
+			"1 cup sour cream (optional)",
+			"fresh dill to taste (optional)"
+		]
+	},
+	{
+		"name": "Ukrainian Vareniki",
+		"url": "https://based.cooking/ukrainian-vareniki/",
+		"ingredients": [
+			"18 ounces potatoes",
+			"3 cups all-purpose flour",
+			"¼ cup sour cream",
+			"½ teaspoon baking soda",
+			"½ cup water",
+			"¼ cup butter",
+			"2 onions, finely diced",
+			"3 ½ cups finely chopped button mushrooms"
+		]
+	},
+	{
+		"name": "Wholemeal Pizza",
+		"url": "https://based.cooking/wholemeal-pizza/",
+		"ingredients": [
+			"1 serving [Wholemeal Wheat Flour Pizza Dough](/wholemeal-wheat-flour-pizza-dough)",
+			"1 serving [Easy Pizza Sauce](/easy-pizza-sauce)",
+			"~80g mozzarella cheese",
+			"~40g Edam cheese",
+			"~40g Tilsitter cheese",
+			"salami (optional)",
+			"ham (optional)",
+			"salsiccia (optional)",
+			"aubergine (optional)",
+			"zucchini (optional)",
+			"mushrooms (optional)",
+			"olives (optional)",
+			"arugula salad (add after pizza is done) (optional)",
+			"fresh basil leaves (add after pizza is done) (optional)"
+		]
+	},
+	{
+		"name": "Wholemeal Wheat Flour Pizza Dough",
+		"url": "https://based.cooking/wholemeal-wheat-flour-pizza-dough/",
+		"ingredients": [
+			"500g flour (Wholemeal Wheat Flour)",
+			"280ml lukewarm water",
+			"8g dry yeast",
+			"3.5 spoon olive oil",
+			"1.5 teaspoon salt"
+		]
+	},
+	{
+		"name": "Winter Risotto",
+		"url": "https://based.cooking/winter-risotto/",
+		"ingredients": [
+			"3/4 cup Arborio Rice",
+			"1 cup Baby Spinach",
+			"2 Garlic Cloves",
+			"4 1/2 cup Vegetable Broth",
+			"1/4 cup Parmesan Cheese, shredded",
+			"1/2 lb Baby Tomatoes",
+			"1 Tbsp White Wine Vinegar",
+			"1/4 cup Walnuts, chopped",
+			"1/2 cup Leek, sliced",
+			"1 cup Mushrooms",
+			"3 Tbsp Unsalted Butter"
+		]
+	},
+	{
+		"name": "Yibin Burning Noodles",
+		"url": "https://based.cooking/yibin-burning-noodles/",
+		"ingredients": [
+			""
+		]
+	},
+	{
+		"name": "Yogurt",
+		"url": "https://based.cooking/yogurt/",
+		"ingredients": [
+			"2 thermos, ½l capacity each",
+			"thermometer",
+			"1l milk",
+			"100ml yogurt"
+		]
+	},
+	{
+		"name": "Yorkshire Puddings",
+		"url": "https://based.cooking/yorkshire-puddings/",
+		"ingredients": [
+			"140g flour",
+			"4 eggs",
+			"200ml milk",
+			"sunflower oil"
+		]
+	},
+	{
+		"name": "Za'atar Chicken Bulghur Bowls",
+		"url": "https://based.cooking/zaatar-chicken-bulgur-bowls/",
+		"ingredients": [
+			"4 Chicken Breasts",
+			"1 cup Bulghur Wheat",
+			"1 oz Mixed Olives, drained",
+			"4 oz Baby Spinach, chopped",
+			"2 Tbsp Za'atar Spice Blend",
+			"2 Roma Tomatoes",
+			"1 Lemon",
+			"1/2 cup Feta Cheese, crumbled",
+			"2 Garlic Cloves, minced/grated",
+			"2 Tbsp White Vinegar",
+			"1 tsp Sugar",
+			"Oil"
+		]
+	},
+	{
+		"name": "Zaatar",
+		"url": "https://based.cooking/zaatar/",
+		"ingredients": [
+			"1 Cup Zaatar leaves (without the stalks), cleaned and dried.",
+			"1 Cup sesame (optionally roasted).",
+			"1 Cup Sumac.",
+			"1 teaspoon salt.",
+			"Optional: citric acid salt, for extra kick if the Sumac wasn't enough for you."
+		]
+	},
+	{
+		"name": "Zarangollo",
+		"url": "https://based.cooking/zarangollo/",
+		"ingredients": [
+			"1 White onion",
+			"1 Eggplant",
+			"Olive oil",
+			"Egg (optional)"
+		]
+	},
+	{
+		"name": "Zopf",
+		"url": "https://based.cooking/zopf/",
+		"ingredients": [
+			"1kg white wheat flour",
+			"½L milk",
+			"125g butter",
+			"14g dry yeast",
+			"1½T salt",
+			"1 egg"
+		]
+	},
+	{
+		"name": "Zurich-Style Meat Saute",
+		"url": "https://based.cooking/zurich-sytle-meat-saute/",
+		"ingredients": [
+			"600g Beef finely sliced",
+			"250g Mushrooms, finely sliced",
+			"1 Onion",
+			"1 tbsp Flour",
+			"200ml White whine",
+			"200ml Cream",
+			"1 tbsp chopped parsley"
+		]
+	}
+  ]
+}
