@@ -38,6 +38,17 @@ h3 {
 	margin: 0.0rem;
 }
 
+
+.example-block {
+    display: flex;
+    justify-content: center; /* Center the block horizontally */
+}
+
+.example-inner {
+    text-align: left; /* Keep the text inside left-aligned */
+}
+
+
 input#search {
 	all: unset;
 	display: block;
