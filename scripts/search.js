@@ -33,8 +33,10 @@ function runSearch(ingredients_search_input) {
 		].filter(Boolean).join('<br>');
 	
 		const missing_count = missing_ingredients.length;
+		const matching_count = matching_ingredients.length;
 	    recipe.missing_count = missing_count;
-	
+	    recipe.matching_count = matching_count;
+
 	});
 	
 	const sortedRecipes = [...recipes].sort((a, b) => {
@@ -42,7 +44,7 @@ function runSearch(ingredients_search_input) {
 		if (a.missing_count !== b.missing_count) {
 			return a.missing_count - b.missing_count; 
 	    } else {
-	    	return b.ingredients.length - a.ingredients.length; 
+			return b.ingredients.length - a.ingredients.length; 
 	    }
 	
 	});

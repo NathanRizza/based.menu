@@ -1,10 +1,12 @@
 body {
-  background: #151515;
-  color: navajowhite;
-  max-width: 850px;
-  margin: auto;
-  padding: 0 16px;
-  font-family: sans-serif;
+	background: #151515;
+	color: navajowhite;
+	max-width: 80%;
+	margin: auto;
+	padding: 0 16px;
+	font-family: sans-serif;
+	overflow-wrap: break-word;
+	word-break: break-word;
 }
 
 a {
@@ -37,26 +39,20 @@ h3 {
 }
 
 input#search {
-  all: unset;
-  background: #222;
-  color: #fff;
-  padding: 0.7rem 1rem;
-  border-radius: 5px;
-  width: 100%;
+	all: unset;
+	display: block;
+	box-sizing: border-box;
+	background: #222;
+	color: #fff;
+	padding: 0.7rem 1rem;
+	border-radius: 5px;
+	width: 100%;
 }
 
 .search {
-  width: 400px;
-  max-width: 85vw;
-  position: relative;
-  margin: 0.5rem auto 1.2rem;
-  display: flex;
 }
 
 .search-wrapper {
-	display : flex;
-	flex-direction: column;
-	gap: .25rem;
 }
 
 .recipe-container {
@@ -82,20 +78,20 @@ input#search {
 }
 
 .floating-card {
-  bottom: 20px;
-  right: 20px; 
-  width: 150px;
-  padding: 15px;
-  background-color: #151515;
-  text-align: center;
-  position: fixed;
-  z-index: 1000;
+	bottom: 0px;
+	right: 0px; 
+	width: 100%;
+	padding: 15px;
+	background-color: #151515;
+	text-align: center;
+	position: fixed;
+	z-index: 1000;
 }
 
 footer {
-  text-align: center;
-  border-style: solid;
-  border-width: 2px 0px 0px 0px;
-  padding: 1em;
+	text-align: center;
+	border-style: solid;
+	border-width: 2px 0px 0px 0px;
+	padding: 1em;
 }
 
